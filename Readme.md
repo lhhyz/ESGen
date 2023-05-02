@@ -32,7 +32,5 @@ Configurations for the model can be changes from config.py file
 > Command: ```python generate.py```
 > + Then, evaluate the generated commit message<br>
 > run the Metrics.sh <br>
-> Command: ```python evaluation.py```
+> Command: ```./Metrics.sh Reference Prediction ScoreSaveFile```
 
-As the limitation of LFS, the dataset can be downloaded from [google driver](https://drive.google.com/file/d/1QFaZLqVhCFX7MgFoA32o2gjBZJDKw5u3/view?usp=sharing).
-Unzip the downloaded .zip file, which contains two folders ('datawash' and 'pretrained_model'), then move these two folders to the BCGen root directory.
