@@ -30,7 +30,7 @@ Configurations for the model can be changes from config.py file
 > + Firstly, generate comments for the test set <br>
 > run the generate.py <br>
 > Command: ```python generate.py```
-> + Then, evaluate the generated commit message<br>
+> + Then, evaluate the generation commit message<br>
 > run the Metrics.sh <br>
 > Command: ```./Metrics.sh Reference Prediction ScoreSaveFile```
 
