@@ -26,10 +26,10 @@ This will creates three tfrecord files under the datawash folder.
 Command: ```python main.py``` <br>
 Configurations for the model can be changes from config.py file
 
-### Step3: generate comments and test your trained model
-> + Firstly, generate comments for the test set <br>
-> run the generate.py <br>
-> Command: ```python generate.py```
+### Step3: generate commit message and test your trained model
+> + Firstly, generate commit message for the test set <br>
+> run the generation.py <br>
+> Command: ```python generation.py```
 > + Then, evaluate the generation commit message<br>
 > run the Metrics.sh <br>
 > Command: ```./Metrics.sh Reference Prediction ScoreSaveFile```
