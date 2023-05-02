@@ -3,7 +3,7 @@
 This is the dataset for ESGen. The dataset is saved in the ```/data``` folder.
 
 ## Quick start
-If you want to train your own dataset, start with the step1, otherwise skip the step1.
+If you want to train your own dataset, start with the step1, otherwise skip the step2.
 
 ### Step1: get pre-trained model
 
