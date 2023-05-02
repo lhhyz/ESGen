@@ -8,6 +8,7 @@ If you want to train your own dataset, start with the step1, otherwise skip the 
 ### Step1: get pre-trained model
 
 Command: ```wget https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip ```
+
 Command: ```unzip uncased_L-12_H-768_A-12.zip```
 
 ### Step2: data preprocess
