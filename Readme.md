@@ -4,7 +4,13 @@ This is the dataset for ESGen. The dataset is saved in the ```/data``` folder.
 
 ## Quick start
 If you want to train your own dataset, start with the step1, otherwise skip the step1.
-### Step1: data preprocess
+
+### Step1: get pre-trained model
+
+'''wget https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip 
+unzip uncased_L-12_H-768_A-12.zip'''
+
+### Step2: data preprocess
 > + please place the diff, seq and commit message files under data folder with the following names:<br>
 >-train_story.txt <br>
 >-train_summ.txt <br>
@@ -21,12 +27,12 @@ If you want to train your own dataset, start with the step1, otherwise skip the 
 Command: ```python preprocess.py```<br>
 This will creates three tfrecord files under the datawash folder.
 
-### Step2: train the model
+### Step3: train the model
 > run the main.py <br>
 Command: ```python main.py``` <br>
 Configurations for the model can be changes from config.py file
 
-### Step3: generate commit message and test your trained model
+### Step4: generate commit message and test your trained model
 > + Firstly, generate commit message for the test set <br>
 > run the generation.py <br>
 > Command: ```python generation.py```
