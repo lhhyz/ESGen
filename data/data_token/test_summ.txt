@@ -1,0 +1,2743 @@
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+add a little test for redelivery in natsconsumer
+add unittests for underfilesystemcommonoperations
+hdfs - 4046 . add the miss file in revision 1406011
+set svn : eol - style = native
+merge remote - tracking branch ' eugenp / master '
+create countingsortintegers . java
+fix buildconfig generation for internal build
+avoid hadoop job . tostring
+fix possible npe , fix indent
+add @ override on method in a recordreader impl
+add the testcase
+delete resource orphan in order to not index them
+remove deprecate code
+merge pull request # 2951 from agresch / agresch _ storm - 3328
+add the expressionreader class for parse expression .
+add special character test
+merge pull request # 554 from erwan / prefkey
+merge branch ' master ' of http : // git - wip - us . apache . org / repos / asf / lucene - solr
+update ut for cookie
+migrate all property to the new spring boot property
+merge pull request # 1386 from oscerd / camel - 1385
+create initial integration test project for gradle .
+remove unthrown exception from private method
+extract default db to a constant
+add todo reminder
+add configuration test
+ignore package _ changed for single component
+merge pull request # 12453 from ebullient / rest - deps
+fix example project
+merge pull request # 1696 from robwin / patch - 1
+use predicate instead of instanceof to hide implementation detail
+fix import order
+merge branch ' master ' of github . com : real - logic / aeron
+ignore all ide file and java compile file .
+add method to remove game object from scene
+merge remote - tracking branch ' upstream / old - master '
+add shutdown to bosstimersplugin
+update comment from sam ' s version
+improve the code coverage for threadlocal
+move system - dependent checking to goenvironmentutil
+merge pull request # 227 from hsqlu / master
+implement magic dictionary
+fix infinite loop on wrong argument in mathutil . log
+add `` ca '' abbreviation
+remove unused config setter
+update android
+add testcase for issue # 743
+merge pull request # 230 from mekjaer / master
+add new vendor field to the graylog schema ( # 8471 )
+fix codacy issue
+fix javadoc in perclassmustacheresolver
+merge branch ' master ' into master
+improve english translation
+add getdisabledstatechangedevent ( )
+merge pull request # 20 from dsyer / feature / deps
+remove ajar state
+add license 2 downloadtaskevent
+add sample for same issue .
+merge commit ' 00401d58351e6f7829ca4b87f199ceab4509e145 '
+add transactionalsqlexecutionhooktest .
+delete listsegements . java
+simplify the echo client example
+uncommenting the test
+rewrite proxystart
+add @ functionalinterface to throwingsupplier
+add a document list class in ' common '
+add testcase .
+change the visibility of circuitbreakerutils . iscallpermitted to public
+add a judge condition in class of sender .
+change immediateexecutortest to use nanotime
+fix # 9780 manage debezium in quarkus - bom - test instead of quarkus - bom
+add more testcontainers test for infinispan producer
+fix setting on screen rotation
+merge branch ' master ' of github . com : code4craft / webmagic
+add ipiedataset interface to piedata object
+add djb2 test
+add coverage on branch master .
+merge pull request # 445 from nsit / core - 2397
+merge pull request # 644 from smarek / issue - 620
+merge pull request # 4905 from abextm / keyreleased
+add simple test case for good coverage
+add at2000 unit test case
+change the app icon
+extend whitespacetokenizertest . java with edge test
+add option to outline text
+merge pull request # 407 from shangxiaobin / master
+synchronize cachevertex . querycache read
+update readme
+fix negation bug
+create dfs . java
+fix checkstyle
+correct the java doc for messagelistenerorderly . java ( # 1897 )
+drop unused constant in internalproperties
+tweak agroal configuration reference documentation
+fix ankidroidapp . sinstance - is - null exception during dialog inflation
+add annotation from super to subclass compat copy method
+bump up version
+merge branch ' master ' into pytopo / instance _ nw
+refactoring retryitemprocessor
+remove unnecessary ' return ' s / clean up querystringdecoder
+modify the accessibility of the okhttpclient for subclass .
+add few more wondex test case
+add support for oracle ' s ratio _ to _ report ( ) analytic function
+hide implicit constructor
+remove unused class which be package private anyway
+modify schematokenassert
+add template parse unit test
+tidy up cut - n - pasted javadoc .
+remove unused header
+remove unnecessary import
+merge pull request # 71 from jakewharton / patch - 1
+add a couple of reflection registration to narayanajtaprocessor
+merge pull request # 1607 from andrew - m - leonard / generatejli
+remove logging of blank line ( # 638 )
+modify the nav
+merge pull request # 6085 from xiaoxuhmm / new _ branch
+add cpp dir
+merge pull request # 6435 from biaos / import - 11 - 13
+merge pull request # 12893 from bstansberry / wfly - 12953
+make frameworkfield ctor public . fix # 1668
+remove funny import
+deprecate class that be no longer use .
+add screenutils # getheightofnavigationbar ( context )
+add rule test
+added java code to sample extension .
+deactivate detail log for seed node
+add a karaf feature test for camel - restlet - gson
+modify masterslaveonly . java
+implement view deletion
+fix package name
+add default validation message for @ decimalmin / max ( # 3518 )
+merge pull request # 4226 from bytehamster / infrastructure
+merge branch ' master ' of github . com : ichun / minecraftforge into miscchanges
+add test
+merge branch ' dev ' of http : // github . com / shardingjdbc / sharding - jdbc into dev
+drop unencrypted storage on android version below 4 . 3
+remove session on close or error
+merge pull request # 1834 from benjchristensen / toserializedsubject
+merge branch ' master ' of http : // github . com / alibaba / fastjson
+disable jdk / java / lang / reflect / execalleraccesstest
+remove some dead code
+rename module dsel to scala
+fix javadoc
+merge pull request # 445 from toubou91 / master
+write position in hex in notsameexception message .
+deprecate class that do n ' t seem to be use
+fix sourcetest
+fix bean init order .
+make stream description nullable .
+fix issue # 767 , duplicate @ jsonproperty
+add constructor for encrypt schema
+fix application module remove wrong type .
+modify shardingandmasterslavetogether . java
+rename size to buffersize
+add some yet unfinished bridge method test
+remove empty method
+add oracleoutputvisitor prettyformat test
+add 4class and 7class to end to end test
+fix the android sdk open source requirement
+add solution to problem 64
+remove reference not present in upstream right now
+use new async handler assertion to simplify junit test
+merge origin / master
+merge branch ' master ' of http : // github . com / norbertpotocki / storm into patch - kafka
+去掉 spring cloud api gateway
+fix copy / paste issue in watcheventtype ( # 2888 )
+modify aggregationdistinctquerymetadata ( )
+remove redundant enum test
+update the watermark
+merge pull request # 10843 from geoand / k8s - polish
+resolve the conflict of # 146
+add huasheng unit test
+fix naming of c / c++ archive
+add public annotation
+add comment for l4 ip option
+add a test that gbk preserve windowing
+add compile - fail test if annotate @ deeplink in non - static method
+rewrite renewdisableddatasourcenames
+merge pull request # 5316 from pasalab / docfix - yin
+introduce namedforkjoinpool , a forkjoinpool with name worker thread .
+supply the name of variable to preconditions . checknotnull
+add @ mapper to xml sample
+disable test method for deprecated encoding : it too memory - hungry
+validate binary search tree
+add objectpostprocessor support for smartinitializingsingleton
+add wordcount java example
+simplify build
+merge pull request # 3013 from square / jakew / converter - data - leak / 2019 - 01 - 22
+merge remote - tracking branch ' origin / master '
+fix a bug in codeconverter # replacefieldread / write ( ) on field shadow
+fixed break key handling .
+create sendmessages . java
+revert the file name
+fix parameter name of weightthresholdalertfilter ( # 1198 )
+expose mergemanifests method in skylark
+flatten binary tree to link list : accepted
+allow customization of validatorreifiers
+add test to demonstrate concurrency problem
+add robotrack location test case
+remove openj9 implementation of sun . reflect . callersensitive
+fix shadowconnectivitymanager constructor .
+add action
+add isenabled ( ) to annotationhandler
+make onremoved default in interface
+remove lombok delegate from persistablelist
+add word suggest by user
+simplify code
+delete invalid function
+use the action - scoped tmpdir for temporary file
+merge pull request # 219 from rmberg / job - exception - handling
+fix typo in readme
+revert file
+merge branch ' master ' of http : // gitee . com / zhijiantianya / onemall
+log exception from keyspaceservice ( # 5167 )
+add skeleton for broker test
+make rowkey . metricnameasync ( ) public so it can be use elsewhere
+fix async . eachsequentiallyimpl be throw nosuchelement exception
+remove useless assignement
+fix documentation issue # 243 .
+remove unused class scmchecker
+delete metricscontroller . java
+merge remote - tracking branch ' origin / master '
+add assertdecodewithoutkey ( )
+fix typo
+add license for this class
+merge branch ' master ' of ssh : // 192 . 168 . 8 . 22 : 58422 / cat
+add @ preferenceclick
+merge pull request # 277 from dblock / shortcut - clsids
+fix autogen code that be miss in refactor
+add integration test profile
+add testcase for httpwebdav .
+move eithertest to util . types
+add aspectjweaver dependency be well
+add prop a parameter .
+fix # 534
+merge pull request # 7671 from vinche59 / jniruntimeaccess
+add newline .
+raise generic bound for discoveryclient
+move tooling - bundle / camel - bundle - plugin into tooling /
+remove unused variable .
+remove unused undoable flag
+invoke overload method with default value , instead of copy & paste
+clarify method javadoc to match class documentation
+fix version string parse for version end in `` - preview ''
+remove extra empty line
+merge pull request # 6355 from biaos / checknotnull - 10 - 31
+add tsx file type for t lsp ( # 7325 )
+fix collationkey creation - fix # 753
+let prettyprinter hook into renderend , rather than executestart
+merge pull request # 79 from orsenthil / java / fix _ optimal _ bst _ recursive
+add startup consistency check unit test
+add connection mode
+cancel recipe .
+replace hsql with h2
+fix writetimeoutexception java doc description ( # 9554 )
+delete file from resource ( fix act - 1839 )
+fix a bug
+rearrange import
+notify group , tx state
+delete unused class : cardbrowsercontextmenu
+modify assertcreateshardingorchestrationevent ( )
+add test to assert that forkjoinpool clear interrupt flag
+commit good fix for race condition daniel note
+fix typo .
+delete describeclusters . java
+add test for filter in disambiguation
+merge pull request # 321 from lepdou / bugfix _ 0711
+remove svn : executable property from tester . java .
+simplify xpath expression for useshortarrayinitializer
+add a no ops websocketprocessoradapter
+improve unit test
+merge branch ' grammar - compact - records '
+remove old code
+modify the test case error
+add jmap folder sync
+merge pull request # 8959 from albanoj2 / bael - 3587
+display all time zone with gmt and utc
+merge pull request # 1778 from jplsek / pass - modifiers - stretched
+format improvement
+fix poll return for empty odata cliententitysets ( # 2719 )
+add some unit info to the javadocs
+add example for http
+javadoc . add deprecation annotation to inform about alternative .
+fix arg length check
+merge pull request # 743 from ganxiyun / master
+edit 303
+add file
+make id ( ) consistent with other us be the codebase
+fix the delete artifact store api .
+remove unused method in yarnconfigutils
+fix javadoc glitch
+merge pull request # 2836 from blackstar - baba / master
+add author
+merge pull request # 1293 from s50600822 / flyway _ failure _ is _ silently _ repeated _ until _ mysql _ connection _ is _ exhausted
+remove unused code
+reflect unifiednlp change
+merge pull request # 1287 from square / jw / long - deprecated
+reactivate and simplify uitest
+add tostring ( )
+fix unit test which always fail the second time
+add an echo plugin for benchmarking purpose .
+make string constant
+correctly convert to nanos . see # 565
+add 474
+convert junitstaticsuite to java rule
+deprecate parser # canparse
+implement return with new sql executor
+update caller of headers . createrequestheaders ( # 3465 )
+convert haskell package to a module
+add component test
+merge pull request # 9384 from alimate / bael - 4101
+merge pull request # 7 from mycatapache / 1 . 6
+remove unused import
+fix test case , ensure test property be actually load .
+delete job folder when num to keep be 0
+fix watch frame decoder
+fix bug : wrong quit command implementation ( # 2554 )
+log a warning if fails to obtain client ip .
+make drawer item clickable in xml sample .
+merge branch ' master ' of git : // github . com / atmosphere / atmosphere
+fix break build
+simplify height function
+add comment for now - deprecated response constructor .
+add license header .
+catch error on component update in layoutspecannotator
+make rendercore ' s mountitem and some apis public .
+refine test for ibm ' s j9 vm
+remove useless type test identify by lgtm . com .
+fix build
+add license header for logutils file ( # 5272 )
+handle verification in wiremockrule
+deprecate unsecure xmlserializer
+add contextutils getactivity ( ) method
+remove todo
+add test for oracle
+merge pull request # 5620 from rahusriv / rahul / newline1
+fix right ( ) bug
+fix checkstyle
+validate uuid to prevent sql injection
+convert sorted array to bst
+replace anonymous type with lambda
+avoid exception when create chunkindex with length = 0 .
+fix successful - boolean in index status watcher
+update the smallrye - jwt extension config root name to smallrye - jwt
+add license header
+add an integration test
+update nutz version
+add more documentation to outputlabel
+rename rxloggersmanager to defaultloggersmanager
+merge branch ' fix / 418 ' into fix / 419
+remove obsolete example code
+fix two assert message .
+merge remote - tracking branch ' origin / master '
+improve the test
+add some ic2 item .
+update script
+remove file
+clean todo list , add note to touchevent class
+exclude slf4j , include log4j , change description
+fix diffsectionspec javadoc
+fix comment .
+merge pull request # 36 from vonloxley / modeladapter
+reuse constructor
+add ruleorchestrationlistenertest
+add test
+merge pull request # 5404 from eugenp / lor6 - patch - 11
+merge pull request # 4747 from geoand / minor - packageit - cleanup
+add back deprecate getwindow to forwardingtimeline .
+fix context filter ' s bug ( # 3526 )
+add getdatasourceparametermap ( )
+add more test with localstack and testcontainers
+add project metadata serialization test
+modify representjavabeanproperty ( )
+use late maven test suite for it .
+merge remote - tracking branch ' origin / master '
+add å ngstr ö m ( s ) to wordlistvalidatortest
+use the benchmark runner for the normalization performance test .
+fix test flakiness by ensure instant do n ' t contain nanos
+add uselargepages to testnumapagesize
+add testcase for issue 469 , http : // github . com / alibaba / fastjson / issues / 469
+add binlog - connector time support
+add doc for withprobability
+remove extra integer ctor call
+add 403
+create createhealthcheck . java
+add a tostring for inprocesssocketaddress
+add integration profile
+add nullable annotation to iguihandler ( # 3550 )
+remove unused var
+enable fragment match for auth whitelist ( # 1901 )
+add constructor use default configuration
+remove @ author .
+fix profile crash on some device due to regex .
+open up data structure to child class
+remove unused inject
+buffer inout and output
+modify masterslaveonly . java
+add ` nodeadddata ( ) ` ;
+add schemacontexttest
+ensure capacity when generate key up front
+allow gocd to run on jdk 14
+download progress recipe
+fix issue with tlv frame decoder
+add orchestrationspringshardingdatasource ( )
+sink load out of loop may trigger
+fix first / last helper test case
+fix precommit test , unused import
+add a tostring ( ) for debug
+add workaround for zuul staticness
+merge branch ' 2 _ 0 _ x '
+fix throwsioexceptionifpathnotfound ( ) on macos .
+add badge at readme
+delete rockettest . java
+merge pull request # 1657 from pankajroark / pg / remove _ slave _ looper _ notify
+edit 350
+remove unused import # 313
+add test for groovy
+disable best - effort memory cleaner for mastersecrets .
+ignore test class
+remove some logging
+upgrade the coreos etcd docker image to 2 . 3 . 8
+remove incorrect documentation
+make xoo plugin compatible with sonarlint core
+merge r1097187
+merge pull request # 8402 from r30shah / testbranch
+merge pull request # 681 from guoxiaoxu / master
+add assertnew for mysqlcominitdbpackettest
+upgrade camel - xml - io to junit5
+add service sample
+remove unused task
+fix obscure zone test bug
+add regcenter
+added new test
+moved viewproviderplugin
+add adaptive restart to simulator ' s hill climber
+replace magic string with constant .
+add findbugsversiontest
+add simpleapolloconfigdemo
+fix typo in comment for provides annotation .
+bump version to 1 . 5 . 0
+fix bad generate code by fullscreenhandler
+add encryptstatement
+remove dead code from elsehandler in indentation check . # 1270
+add link to configuration reference in doc ( # 1521 )
+bump up version
+add a small semgrex demo program
+implement ctor injection interface type
+revert jooq application . java
+add testcase for issue # 1863
+log a trace to prevent application loosing message
+improve postgresql support
+work rest service
+modify tostring ( )
+fix unit test
+modify standardroutingengine ( )
+remove platform backwards compatability hack
+enforce remote hdfs
+add a getter to includesartifactfilter to enable interrogation
+make http configuration constructor protect
+get test resource into place
+add integration test for new behavior & old behavior
+remove unnecessary suppresswarnings from jsonparser
+delete simplecontrollerhandleradapterexamplecontroller . java
+add link to bs + in prefs
+merge pull request # 10920 from famod / issue - 10885 - javadoc - logging - qtrlm
+add sample application with the form engine
+remove unneeded jsni from objects . equals
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+remove unused reader from configurationfactory # build
+remove debug code
+enhance comment , javadoc and logging message for ( # 1722 )
+include import statement in user guide sample
+merge pull request # 242 from ptomli / patch - 1
+fix a compilation error on jdk 6 .
+merge pull request # 1002 from tomtit / issue988
+merge pull request # 120 from hwrdprkns / master
+fix fragile test
+update smart - socket to 1 . 4 . 3 . rc - 4 ( # 4973 )
+fix camel - 13498 - add support for as2 in karaf
+merge pull request # 648 from magicdoom / 1 . 4
+replace py setup with sh setup play2 - scala
+use public static .
+reorder generate method
+adjust property
+rename async method ( # 804 )
+add license , remove redundant annotation
+set version to 2 . 2 . 0 - snapshot
+disable the oracle8i dialect
+deprecate all the old benchmarking stuff
+merge remote - tracking branch ' upstream / master '
+fix rlock ' s entry
+add more coverage
+add shadowspannablestringinternal . java .
+renames class to ' implementation ' .
+add aaptmanager
+fix rexster cfg ' s bdb storage . backend shorthand
+merge branch ' master ' of http : // github . com / up2go - sschwarz / pmd into pr - 102
+miss static import
+move a core class out of the test folder
+improve prettyprinter
+dump json , not binary script
+fix success log in importpageattemptfinished ( # 899 )
+merge branch ' master ' of github . com : apereo / cas
+add encryptcolumnruleconfiguration . java
+make default binary constructor use type 0
+merge branch ' master ' into shadow _ service
+disable unc test on ansi api
+fix findbugs
+remove sout
+move apicrumbexclusion to blueocean - rest
+use the @ nullable annotation
+convert android _ instrumentation _ test arg to be immutable
+add wip login flow
+add 531
+set dbmanul name ( again )
+throw unknown exception ( # 5849 )
+remove redundant semicolon
+merge pull request # 4300 from smlambert / openssltest
+bump reactive dependency . ( # 1105 )
+create listcollections . java
+fix indentation
+add navis unit test case
+load jdbc driver unit test
+add a final qualifier
+fix checkstyle violation in exceptioninchainedstubexception
+add comment to emailsettings
+update example
+add test
+stifle rejection exception from threadpoolexecutor
+bump version to r2 . 0 . 4
+remove anonymous hashmap class creation in nodethreadpoolsexpression
+merge pull request # 9927 from sanne / upgradesqlserver
+replace explicit type argument with template
+remove unused import ;
+add testcase
+fix spotless violation
+merge pull request # 138 from boliza / patch - 1
+merge branch ' master ' of http : // github . com / thirtydegreesray / openhub
+modify the demo ui
+add testcase .
+add todo
+fix typo ( # 3839 )
+include @ inherited and @ documented to secured annotation
+create createdeliverystream . java
+add testcase for # 3960
+added additional test for loaded annotation handling .
+change `` getfiles '' to protect
+catch exception in memoryhandler
+merge pull request # 4506 from gastaldi / gradle _ fix _ test
+add requirement for websocketsessionrepository
+allow jdbccamelcodec to be use without require byte array
+reconstruct itinerary leetcode q
+clean up launcher for readability .
+delete remain buck query related class .
+modify shardingmasterslaveconfigurationprecise . java
+name the method appropriately
+merge remote - tracking branch ' tightdb / master ' into bm - develop
+merge pull request # 7430 from amit2103 / bael - 16045 - 6
+remove superfluous apache license header
+merge pull request # 2389 from thc202 / authorization - api
+remove duplication in test logic
+merge pull request # 248 from kieranshaw / master
+added comboboxitem to be use in comboboxes .
+add unit test for packet block in stream locality
+remove boradcast table adjust
+added double link list method
+clarify trigger behaviour for empty window
+remove tab char
+verify fixed spring ' s test
+remove unused log
+add support for gild axe
+remove extra line break
+add test
+add test to confirm pkgid of 0x80
+fix the test
+merge pull request # 550 from moh - sushi / patch - 1
+add dialog to shapethemeingdemo and fix overlay order
+fix parameter order
+add 1295
+update redkale 19 . 2 . 4 ( # 3611 )
+fix a typo in latency container class
+create deletefunction . java
+remove serializable because it create a lot of warning
+extend cors cache on every request
+merge branch ' bug - 1471 ' into pmd / 5 . 3 . x
+color the progress wheel
+add fabric crash upload
+add ruptela test case
+fix possible track selection npe
+remove flakiness - causing static initializer test
+merge remote - tracking branch ' upstream / master '
+set primitive wrapping to false for script ( # 1302 )
+improve db2exceptionsorter
+redirect testng test output to target directory
+fix javadoc nag
+add statement to problem 31
+remove private constructor
+fix a log statement
+optimize httpchunk . last _ chunk
+remove data class limitation from jsonclass doc .
+merge pull request # 40 from chrisjenx / codebutler - feature / textappearance
+make the versioncommand # getversion ( ) static and cache the value
+edit 342
+rename helper function to preparesocket
+add teststringindblquotes
+merge branch ' master ' of github . com : nutzam / nutz
+merge branch ' master ' into develop
+remove easymock from serverstatuscommandtest
+instrument the nclientconnmanager
+fix case where onsubscribe do n ' t return from request
+added imageperfimageoriginlistenertest
+migrate spring - drools to com . baeldung
+add json stream test
+merge pull request # 9030 from gindex / master
+fix sample - nosupport .
+merge branch ' master ' of github - msmith : techempower / frameworkbenchmarks
+avoid unnecessary list allocation in blobplugin
+include junit - jupiter - params in standalone jar
+remove unused field
+remove duplicate mac o check ( # 491 )
+add noopbuildrule to return zero resource
+fix pinotclientrequestservlet to handle special character .
+remove unused constructor
+add a serialversionuid to sha256hash . resolve issue 77 .
+modify asserttabletoken ( )
+add back coremap version of attributesequalmatchchecker .
+remove wrong comment
+warn user shutdownnow do n ' t behave a documented
+add test for isurl ( )
+remove abtest server in cathomemodule
+fix deadlock in sysdigstatsdlinebuilder ( # 2327 )
+skip htmlstapler path from lagarto parser !
+improve code example
+set report id
+start the documentation of the row class .
+merge branch ' develop ' into typo
+merge branch ' master ' of git : // github . com / nitobi / phonegap into joe
+delete deprecate clientstreamtracer . factory # newclientstreamtracer ( # 5377 )
+merge pull request # 3 from mybatis / master
+merge branch ' master ' of github . com : nutzam / nutz
+edit 437
+merge pull request # 21 from alanfranz / master
+update paint house
+merge pull request # 6264 from fuzy0000 / branch - mf1733011
+modify shardingconfigurationexception
+add gradle reploy example
+fix an inconsistency of line separator in runwithannotationintegrationtest .
+add snippet tag to java 1 ec2 example
+make emptyexpression and emptystatement singleton and immutatble further
+bump marker
+fix findbugs warn
+add metadatamarshaller to protoutils
+add reference to m - dependency - p
+add skeleton for 1165
+customize droid gap
+merge branch ' staging ' of http : // github . com / kylinolap / kylin into stag
+fix it
+add a size check to the collectionequals mewthod .
+fix test conflict
+add restrict for mysqlkeyword
+include simple type in bottom descrption
+remove side - effect assignment from argument beautification
+merge branch ' fix - test - failure ' of http : // github . com / roberthafner / flowable - engine
+fix log style in restutils
+remove temporary test harness
+fixed # 847 . implement function findsubtypes , add correspond unit - test .
+merge branch ' master ' of github . com : micronaut - projects / micronaut - core
+improve reporting of scope
+remove unused import
+add javadoc
+add some wialon unit test
+fix divide by zero error
+remove toggle for use pipeline rout store or not
+merge branch ' dev ' of ssh : // github . com / shardingjdbc / sharding - jdbc into dev
+add getter
+merge pull request # 1050 from zhouer / close _ request
+fix signature for resourceloader constructor
+use analyzedtokenreadings ; use generic
+give admin firstname
+added docker compose test for testcontainers module
+add new provider node
+fix carbon library declaration
+merge branch ' master ' of http : // github . com / alibaba / druid
+enable the io redirect by default .
+add cancellation to default network fetcher
+add unit test
+update bath of english wikidict
+add example
+rename j9req _ * to omrreq _ *
+add jdbcarray to map embedded list
+reduce the log
+deprecate all the old benchmarking stuff
+merge pull request # 9477 from dbeaver / proposal # 9101
+add jdk 11 support ( # 5909 )
+add no argument constructor for reflection
+improve failure message .
+try another port config for saucelabs
+merge pull request # 85 from kingbuzzer / master
+merge pull request # 1124 from wondercsabo / finalvalidationonsupposexxx
+add dummydrmsessionmanager
+add an author comment
+add more tool function to new tool class ccjsqlparserutil
+improve the message
+add palindrome number
+add test for toomanymethods and fix the rule
+add non - processable method for test
+fixed naivecacheallframescachingbackend cache clearing
+add test to problem 79
+add throwable parameter
+fix jewellery plugin overlay not render
+move the cpucoresensortest to the right package for test
+remove a system . err . println from a test method
+reduce test log _ read _ interval to 500 m
+add sagatransactionmanagertest . assertgetstatus
+fix link address . ( # 624 )
+reword some debug log statement
+create blurtransformation
+add geeksforgeeks link
+fix quality flaw
+add more detail to exception message
+see 11 / 28 log
+correct the class of logger in accountserviceimpl ( # 306 )
+merge pull request # 3255 from gdyjlqh / master
+simplify internal use of the test kit
+use stringutils to remove duplicate code in protocolutils . java ( # 5558 )
+add form validation view model test
+fix enumserializersnapshotmigrationtest to check reconfiguration
+replace lambda with method reference in masterutils . java
+reinstate proper static cutoff behavior
+fix ant - setup example .
+add some simple test for custom function
+add a context listener to metrics - servlet .
+add test case for connection failure , issue # 4810 , # 4914
+bump version and update release note
+fix up api compatibility , improve regexps
+add comment
+fix code formatting
+set @ serializedname even when json and java name match
+add skylarkmodule to skylarkrulecontextapi
+add some test to problem 42
+add support for cardinality ( ) function
+write user prefs after set skin tone
+add gl200 more unit test
+remove buffer redundant strategy judgment code . ( # 5277 )
+fix code quality problem report by sonar
+merge pull request # 1700 from jvasileff / patch - 1
+ignore the camel - ignite karaf feature test
+add explicit check for correct stdcall stack pointer
+plumb actionexecutioncontext to symlinktraversal . addsymlinks .
+add 324
+simplify 249
+add exception to en _ confusion _ rule
+include a cli to generate license key
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+merge pull request # 540 from tibor17 / junit . tests
+update comment
+move loadtest to com . mysema . query . collections
+add basepath from x - forwarded - prefix
+add adm test case
+merge branch ' release ' into mergerelease
+move contentprovider boilerplate to lib ' s androidmanifest . xml
+add title
+add new method json . tostring ( serializerfeature . . . ) , for issue # 2074
+adjust testsuite - osgi to resolve bundle from local build ( # 8944 )
+fix deprecate invocation
+update version test
+improve message
+start app faster .
+bump version
+merge pull request # 2085 from gsmet / fix - oasfilter - cl
+simplify 1558
+merge branch ' master ' of github . com : apereo / cas
+merge remote - tracking branch ' origin / master '
+add getsucnodeid message handler
+add domain failure test
+add test for @ editoraction
+roll back the unnecessary change in servicestest . java
+move pulsar producer creation to dostart
+remove memoryarchivist
+add exception handler for disruptorqueue
+add zoom blur filter
+remove unnecessary modifier `` public '' for testrunlistener interface
+remove unused class
+annotate interface
+log non existent message with debug level
+bump version to 1 . 5 . 2
+merge pull request # 8899 from johna1331 / master
+use an ephemeral worker port . ( # 7737 )
+merge branch ' devel ' of http : // github . com / maxxedev / dbeaver into devel
+merge pull request # 4521 from bytehamster / generate - unique - ids
+merge pull request # 10087 from lc275 / patch - 1
+remove unused import
+added another namespace test
+add avatar for item review .
+improve welcome msg
+added tagalog and asturian to auto - language detect .
+remove unused import
+modify the test case
+edit 7
+fix compilation
+merge pull request # 6923 from guilherme - lima / patch - 2
+add gradle support to componentstestrunner
+unwind a bit of the message v . message conundrum
+merge branch ' master ' into fix / segment - cost
+bump version to 2 . 7 . 3 and update release note
+merge pull request # 412 from emil - genov / master
+commit ad lib file
+fix compilation error due to previous wrong commit
+add connection pool property ( # 457 )
+make sleepingunderfilesystem to make use of managed block
+merge pull request # 621 from ametiste - oss / health - check - without - circuit - fails - fixed
+add testcase for issue # 1950
+add jvmtisetheapsamplinginterval implementation and enable jep331
+fix accidental double - definition of infer _ schema
+add java _ runtime content to runfiles
+merge pull request # 1822 from lukesleeman / patch - 1
+avoid false alarm with `` se titre ''
+clean up import
+restore binary backwards compatibility
+modify import
+tune some memory params
+delete blank line
+add setregistry ( )
+remove unused override annotation
+catch a few false positive of confusion _ rule
+remove min and max json query from aggregationrepository
+adjust rule test
+add new class . .
+merge pull request # 1971 from krzys - h / fix - entity - follow - forge
+sonar - 3113 support of direction attribute . drop reversecolor .
+launch the default browser on mac - fix
+fix taskservlettest .
+delete encryptrulebeandefinitionparser
+fix it
+pass overrideerrors on - d
+add java intersect by key
+import the end product , dump
+fix a memory leak in deviceconfig ( # 5530 )
+fix and comment tomcat configuration
+update the flickrexample to use http
+return abstracthttpclient instead of httpclient from filterable request specification
+put back batch / simplesourcetest . testboundedsource
+merge pull request # 3424 from plajjan / benq - source - num
+add serialization test
+migrate spring - hibernate - 5 to com . baeldung
+add skeleton of 683
+merge branch ' master ' of github . com : phonegap / phonegap - android
+merge pull request # 8490 from jasonfengj9 / osntdopriv
+add jpaorderencryptrepositoryimpl
+fix test
+add test with language not know by lt
+merge pull request # 3660 from rsvoboda / commons - beanutils
+fix sonar warning : replace printstacktrace by log
+merge branch ' master ' of http : // github . com / tightdb / tightdb _ java2
+merge pull request # 9344 from dbeaver / oraclevaluevalidator # 9205
+add spouttaskid field to spoutfailinfo
+fix doc of receiveraction
+discover layout
+fix teltonika test case
+merge pull request # 1987 from jooby - project / 0 . 16 . 0
+merge branch ' issue / vertxbusjs - loaders ' into 3 . 1 . 0 - snapshot
+deprecate unused code
+add main function to longest consecutive subsequence
+add a new xpath rule : avoidaxisnavigation .
+add comment
+add @ issuekey annotation
+add fmftrltestcase
+bump version code
+add poster load for appwidget .
+add json stream parser test - from reader
+fix regression in community edition
+do the same with commandtest .
+add configuration for ssl with rexster over https / http .
+merge branch ' head ' of git @ github . com : usethe4ce / anki - android . git
+merge pull request # 3286 from zivyan / issue # 3281
+add gt06 frame decoder test
+fixed possible nil bug
+resolve the pid field in peercredentials of kqueuedomainsocketchannels . ( # 9219 )
+add a simple java api example
+fix the # 79 , residual drawing color
+remove another unused class
+fix warning about ancestor call create generic array .
+merge pull request # 8572 from geoand / jbang - report
+delete it
+remove unused docs . rest . nooptransientblobservice
+make parallel reference processing default for g1
+merge pull request # 5982 from jasonfengj9 / fixsoaetest
+add meter registration benchmark ( issue # 585 )
+merge pull request # 1223 from ke5stl / patch - 1
+create opentracing spandecorator for platform - http component
+splay tree start
+add test for recursive call marker , # 2043
+merge branch ' static - connection ' of git : // github . com / adeandrade / titan into issue _ 1197 - adeandrade
+add javadocs to oncompletionactions
+add a no - args constructor for instrumentedtimingcollector .
+improve prp _ md and relate grammar rule any _ body [ 1
+modify fillwithqueryassistedcolumn ( 0
+merge pull request # 1897 from idodeclare / feature / fortran _ suffixes
+add unit test
+merge pull request # 9878 from ppalaga / 200609 - kube - client - 4 . 10 . 2
+add a builder function to inventorymessage
+adjust benchmark score
+merge pull request # 78 from varunu28 / master
+merge remote - tracking branch ' origin / master '
+add interpolator for scale sample
+add custom view inflater class for material component .
+fix wording
+reduce visibility
+fix variable name
+add header
+enhance countall
+re - add the file
+add cleanxml to slow itest
+add delimiters property to ant task integration test
+add integration library for use with guava ' s listenablefuture class .
+merge pull request # 22 from ffbit / answer - javadocs - correction
+merge pull request # 5973 from 0xdaryl / plinkagecleanup
+merge pull request # 38 from leonchen83 / master
+fix format .
+provide an example of vertical retrieve the configuration .
+merge pull request # 4369 from hemantvsn / hemantvsn _ springbootnonwebapp _ 30may18
+simplify scrollabletablayout tabs width checking
+add a comment back
+add more deprecation
+finalize multisig payout even on miss address entry
+merge pull request # 7546 from dkapil / story / bael - 10672
+add screenutils
+add v1 implementation for get api
+fix tunnel provider connection temporization
+remove cache chunk development code
+fix import in @ suitedisplayname
+remove final from securityutils
+revert factoryexpressiontransformer change
+add test project with basic glide interface test
+improve test ( # 3309 )
+rename file
+merge pull request # 5086 from caiwenpu / alluxio - 2660
+merge pull request # 107 from gzlicanyi / master
+yarn - 1832 . fix wrong mocklocalizerstatus # equal implementation . contribute by hong zhiguo .
+fix stylecheck problem with maven - shade - clojure - transformer
+mark it for actual removal in 1 . 11
+add orchestrationmasterslavedatasource . java
+add more test around new matcher
+add test for rooannotationprocessor
+bump version
+merge pull request # 993 from akiyamamioty / feature / add - validation - on - nameserver
+remove unused variable
+fix ide nag
+handle empty geocoding response
+add skeleton for 1267
+merge pull request # 11871 from quarkusio / dependabot / maven / narayana . version - 5 . 10 . 6 . final
+bump version to 3 . 1 . 7
+add the test case on urlhelpertests
+remove obsolete xmacros class
+add null check to zwavedbproductfile
+add a treedump test
+test new stateful bean on every ctx lookup
+remove prettyprint argument
+add baseapplication # customadaptforexternal ( )
+merge branch ' patch - 2 ' of http : // github . com / cutd / storm
+change faketoast to allow for toast with custom layout
+merge remote - tracking branch ' origin / master '
+fix a list member examples ' trivial bug
+merge pull request # 6283 from arvindsv / 5427 _ change _ default _ tfs _ workspace
+handle path separator difference in antloader
+add onscrollchanged and the scrollevent object
+improve example
+improve exception message
+add instant run support
+fixed # 112 - small bug in highlighttext
+fix concurrent lazy init bug in titankeyvertex
+bump picocli from 4 . 2 . 0 to 4 . 4 . 0 ( # 2612 )
+add jersey2 sample
+make throwingsupplier . get ( ) throw e
+reset test state
+fix a nullpointerexception in planunwrappingreducegroupoperator
+add ca idle strategy .
+modify the state count
+remove superfluous logging
+merge pull request # 385 from jakewharton / jw / annnnoooottaaattiiooonnnsssss
+added another macos system profiler test
+merge pull request # 467 from zendesk / warn _ on _ missing _ server _ id
+add test
+make object command test fast
+add test for to _ datewithoutdateformat and fix the rule
+remove okhttp cache
+add export provided deps to exporteddepsclosureresovler
+delete invalid parameter
+fix clrthread metric setid error . ( # 5345 )
+add unit test for loginuserruletest
+add 1619
+remove h2 and convert travis - ci to use mysql
+merge pull request # 309 from yeomann / patch - 1
+revert change .
+modify route function .
+add testfloatdouble .
+merge pull request # 6340 from rstudio / bugfix / macos - camera - entitlement
+remove sneakythrows for yamlshadowdatasourcefactory
+add description to tag .
+fix some minor javadoc fix
+merge pull request # 312 from mp - loki / master
+add encryptorbeandefinitionparsertag . java
+add columnname
+disable doublewrite check in mockdirectoryfactory , or otherwise testreplicationhandler fails
+implement # 1444
+add puzzle box inventoryid
+merge branch ' master ' of http : // git . pmease . com / p / robin / commons . git
+use a listmultimap to simplify the code
+remove unused import
+migrate spring - data - rest to com . baeldung
+decouple vitoview from it implementation
+delete obsolete phase
+fix aapt2 _ compile across cell
+fix indentation .
+move doktornarabote . ru url to https
+add test case for messagereference serialization .
+add ij _ product flag to builder for google _ java _ format plugin .
+fix baritonehash calculation
+fix npe in confinterpreter
+remove dead code ( # 5611 )
+remove throughput relate method
+add 1 . 1 test artifact
+add 84
+improve doc
+finish up creatingclient . adoc
+add @ generated . hash field
+add getinitsqls
+tidy up flash .
+enable format test
+use late version of hibernate , spring - data , joda . . .
+move concurrentcountersmanager to agrona .
+remove unused class
+merge pull request # 4235 from bmorrise / backlog - 17093
+fix reporting of error message for environmentalexecexception
+delete type
+add test
+merge pull request # 2239 from trimbe / barrows - chest - value
+add sample for location newarray
+merge pull request # 902 from mockito / dead - lock
+merge pull request # 139 from gauravdarbhanga / patch - 1
+add list of objectidentifiers
+introduce counter interface
+merge branch ' master ' of github . com : path / robolectric
+fix issue # 799
+replace observable . apply ( rx . observable ) by toscalaobservable
+see 11 / 30 log
+add serialization test for onetworkconfirm
+reorder more test to get good result layout
+have defaultdatabaseprovider return filename
+fix typo in contributing . md and spyoninjectedfieldshandler ( # 1994 )
+fix insecureapplicationtests package
+remove unused line
+add unit test for redis . clients . jedis . util . keymergeutil ( # 2009 )
+create getjob . java
+fix text emoji pane font size and vertical align
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+add sourceversion # release _ 11
+disable itiiquerytest temporarily
+add benchmark for the bounded and unbounded sorting collector .
+make logitem public
+fix version recognition under custom jdk build
+fix incorrect endtime for waitrendering in drawhandler
+add some more test
+fix androidmanifestfindertest if it fail once
+add testcase for issue # 2295
+improve footprint of compound list .
+add get / set keystore method in credentialprovider interface . ( # 2625 )
+fix regexaddressvalidator
+add @ since tag .
+merge branch ' metric - testing ' of http : // github . com / abhishekagarwal87 / storm into storm - 1229
+disable abstractintegrationtest
+add unit test
+add the time ( ) method
+merge pull request # 13170 from ehsavoie / wfly - 13334
+extract remote execution specific listener from generic build listener .
+merge pull request # 11788 from bstansberry / wfly - 11258
+move populateindexfromstream from src / to test /
+add cmd _ duration environment variable to blacklist
+merge remote - tracking branch ' origin / dev ' into dev
+merge pull request # 715 from skeletonkey / master
+handle onerror
+add dummy implementation for global search api
+revert emoji ellipsizing temporarily
+rename unsupportedvoldemortoperationalexception to voldemortunsupportedoperationalexception
+merge remote - tracking branch ' upstream / master ' into head
+simplifies the readability of the static method b
+ensure terminate be call
+dump heap on oom in default maven test config
+retrieve the object from optional object
+delete node . java
+remove alltests from third _ party / bazel / src / tools / generate _ workspace / src / test / java / com / google / devtools / build / workspace , and use regular java _ test instead .
+change subversionhistoryparser to follow copy history
+edit 244
+merge branch ' develop ' of github . com : networknt / light - 4j into develop
+correct javadoc for documentablenode
+initialize facebook sdk , add facebook button
+upgrade nacos to 1 . 0 . 0 . ( # 599 )
+add instancestateservice
+send coin before stop the peergroup .
+simplify glob current path implementation
+remove copy - pasted value attribute in @ mongo . id
+remove unnecessary authenticationprocessingfilterdependenciesconfigurer
+bump version number of mobile - impl . xml to force update
+merge pull request # 9862 from gsmet / s2i - image - 20 . 1
+add exception to confusion _ rule
+add serialver generate serialversionuid
+fix wrong variable name in the install dependencies script .
+remove springmasterslavedatasource . java
+add another common error case for corruptrecordexception ' s error message
+add skeleton for 1309
+fix bug in pubsub protocol decode
+remove orphan sectionsconfig params
+remove shadowconfiguration . ( # 3094 )
+verify fixed tapestry ' s db test
+merge pull request # 2016 from wxisme / patch - 2
+add alertdao to spring management ( # 978 )
+merge pull request # 503 from rschildmeijer / master
+fix thread name for buffersynchronizerservice .
+add miss auditbindings to journal command ( # 3226 )
+create configuration runner with glob
+exclude hidden command
+remove unused parameter from storm - kafka - client - example doc
+reverts mistakenly commit nightlybuildid . java
+add testcase
+remove field declaration
+add test
+remove unused import
+delete invalid import
+add more test
+fix tempfolderprovidertest
+fix an eclipse warning
+add solution to problem 50
+merge branch ' javafx ' of http : // github . com / huanghongxun / hmcl into javafx
+delete invalid function
+give @ autoservice source retention , per http : // github . com / google / auto / issues / 143 .
+add a test - case for hive ' s left semi join
+make tokenizer . reset ( reader ) public .
+merge branch ' master ' into echo
+modify stl060 frame decoder
+merge pull request # 182 from tobcar / master
+fix typo
+add pattern . case _ insensitive for oracle
+merge branch ' master ' of github . com : nutzam / nutz
+make callback work a filter too
+edit 98
+merge remote - tracking branch ' eugenp / master '
+remove xalan dep , and fix runnable mojo .
+add nettosphere
+replace anonymous type with lambda ( # 7944 )
+remove duplicate setpath in proxypool
+add some additional information to the bad constant exception .
+add fade title bar for new album consumption .
+improve javadocs for timestampextractor interface
+upgrade jetty
+upgrade picocli to 4 . 0 . 3
+remove two remain author tag
+remove unused override annotation
+miss test case for location conversion ( # 922 )
+create deleteendpoint . java
+merge branch ' list - qrl - asset ' of http : // github . com / scottdonaldau / bisq into scottdonaldau - list - qrl - asset
+add test case
+merge pull request # 612 from totoroyang / master
+remove only @ author tag
+fix checkstyle issue
+add shareviaaccountactivity
+simplify it
+add assertgetproperties ( )
+fix build
+use this a the classloader not the system classloader
+merge branch ' master ' of github . com : moveinc / robolectric
+define human - readable part for bech32 address .
+move trackcommandvalidatortest from src / main / java to src / test / java
+modify setup ( )
+merge pull request # 31 from melnikov - ivan / master
+avoid npe with endpoint be null in jmsbinding ( # 3328 )
+prepare release blueocean - parent - 1 . 0 - alpha - 7
+merge branch ' activiti6 ' of http : // github . com / activiti / activiti into activiti6
+merge branch ' master ' of github . com : graylog2 / graylog2 - server
+improve doc around policy listener
+improve fragmenthost
+add more test to agentregistrationresourcetest .
+redesign button
+replace doc page with redirects to versioned doc page .
+give it more time to complete
+move datasourcepoolmetricsautoconfiguration under autoconfigure package
+update example
+merge pull request # 3887 from cbeams / revert - kotlin
+fix test
+add test for 46
+silence another warning at startup
+fix indentation .
+merge branch ' 1 . 6 ' of http : // github . com / mycatapache / mycat - server into 1 . 6
+fix embeddableintegratortest
+merge branch ' broken - usage - link ' into pmd / 5 . 4 . x
+fix test .
+fix param check of keygeneratorconfiguration ( # 5052 )
+use the @ stringreader . validatedefaultvalue ( false ) to ensure that
+remove assertion after configuration be purge
+create translatetext . java
+write length field in little endian format from bufferclaim .
+fix # 583 jfxpopup width and height calculate incorrectly
+add an example with more than one replacement
+merge commit ' 86671d3 '
+move indentationcheck to indentation sub - directory .
+add approval _ type information to the dashboard stage model
+add ignoredchangedevent . java
+search a 2d matrix ii
+fix http header spring
+introduce stage overview on pipeline activity page . ( # 8538 )
+merge pull request # 1090 from wenshao / master
+fix # 617
+fix crash on boot if you have dyn deck
+merge branch ' update ' of gitlab . techempower . com : techempower / frameworkbenchmarks into update
+tweak hbaseblueprintstest
+merge pull request # 2381 from thc202 / warn - read - only - file
+fix nosuchelement exception in callableimporter logging ( # 756 )
+miss try / catch around parseint call
+add workaround to miss decorator route ( # 3245 )
+add testcase for get head comment
+remove unused import .
+add some more auth test
+fix arrayindexoutofboundsexception ( # 2284 )
+fix subject not null jwt claim validator
+add 546
+try a different cache line padding technique
+fix vectordrawable bug in itemactivity .
+assert aggregationdistinctselectitem
+expose parquetmetadata through parquetreader
+simplify the sample
+merge pull request # 725 from jangalinski / run _ _ with _ varargs
+fix global / local schema stuff and workset iteration
+add staticresourcesservlet for load static resource from plugins
+catch all exception on video loader release
+add a path - returning method to javacbootclasspath
+make inner class standardanalyzer . savedstreams static and final .
+merge branch ' master ' of github . com : mysema / querydsl
+merge pull request # 132 from dpacmen / patch - 5
+give the rule unique id
+add demo module . # 260
+log unique device id for command
+fix build
+modify generaldclintegratetest . java
+compare version number
+add akkrpcruntimeexception
+fix test
+correct usage of helper method .
+remove cancelintegrationtest in favor of cancelcommandtest
+merge branch ' titan09 ' of github . com : thinkaurelius / titan into titan09
+remove unused import
+move ` element ` and ` thr ` argument infront of the ` message `
+add testcase for issue 320 . http : // github . com / alibaba / fastjson / issues / 320
+protect ` networkimpl # close ` from concurrency issue ( # 2203 )
+added operationrepeat & repeat operator
+fix cross - site websocket check
+override nonblockingservletholder ' s equal and hashcode .
+add serialization test for onetworkack
+fix packageprogressreceiver to not call contains on a list .
+use object
+fix typo in gdk specification documentation
+ignore callmaintest
+remove future comment from accessnode
+remove data source parameter
+simplify hashcode of tuple
+overwrite close ( )
+turn the log to debug
+merge pull request # 120 from dminkovsky / patch - 1
+increase the clusteredeventbusstartfailuretest # testcallbackinvokedonfailure timeout to 10 second
+add test case for globalbeginresponse ( # 651 )
+improve test : use packagedeclaration in conjunction with cu
+remove obsolete file listed . java
+add db2 pager sql
+rename property to avoid possible confusion
+test more file
+add unavailable card ( # 580 )
+remove duplication if . . then . . else statement
+remove unused code .
+add immutableinfo annotation for provider
+make ` pluginmetadatasummary ` creator method public .
+delete last comma to make sure it compile
+add note to mixinblockpos
+add 284
+add bce unit test
+add the fn : escapexml case
+merge pull request # 893 from square / jwilson _ 0603 _ configure _ timeouts _ recipe
+merge pull request # 3194 from sberyozkin / tika _ jni
+add unit test for randomuniqueid
+upgrade spring boot version to 1 . 2 . 3 .
+fix stackoverflowerror in serverconfig . tostring ( )
+add comma placement for another case ( # 1196 )
+merge branch ' master ' into no - scanning - restarts - on - duplicate - detection - devices
+merge branch ' develop _ 2 . 0 ' of github . com : swagger - api / swagger - core into develop _ 2 . 0
+document the fact an immutable list could be return
+fix log msg in btccoinselector
+compile fix
+remove sort on pipeline run container
+make websocketbase an abstract gen interface
+add metadata
+remove unused variable prefs
+remove easyrulestestsuite
+add insertcolumnsplaceholder
+add header
+merge branch ' master ' of github . com : eugenp / tutorials into feature / bael - 2774 - run - java - main - method - using - gradle
+modify case
+move commons - lang dependency to querydsl - core
+move the tokenizer test
+merge pull request # 417 from ullas - aithal / bugfix / 408
+fix emailannotationplugin implementation
+fix potential npe in nodeimpl ( # 4632 )
+fix crash when save habit ( some language only )
+use htmlunit instead of httpunit
+add a test to check that combineglobally preserve windowing
+add isdebugenabled ( ) check
+add comment ( # 5620 )
+remove stale testmultiidacquisition ( ) override
+treat uri a parcelable , plus as / gradle support
+tidy up slf4jlogconsumer output to reduce duplicate whitespace
+add javadoc for state
+add localshardingmasterslaveconfigurationrange
+bump version to 5 . 12 . 0
+merge remote - tracking branch ' origin / master '
+update nacos - discovery - example readme
+merge remote - tracking branch ' origin / master ' into feature / ux - 319
+add label that show count
+merge pull request # 622 from eugenp / grzegorz _ string _ to _ int
+add espresso typetext test .
+fix javadoc format in parameterizedtest
+remove the kotlin support ( move to reactor - kotlin - extensions ) ( # 1691 )
+update test method
+add a test
+update litemall - admin - api / src / main / java / org / linlinjava / litemall / admin / config / shiroconfig . java .
+merge pull request # 4018 from watou / davis - mercury
+merge pull request # 1120 from wenshao / master
+added iran to domain fronting list
+fixing test
+merge pom . xml
+merge branch ' port - shellsubmission - to - java ' of http : // github . com / d2r / storm into storm - 1318
+delete springcontexttest . java
+bump snapshot 2 . 0 . 11 - snapshot
+fix user security issue
+fix manual test not find activity plugin
+update checkstyle plugins
+persist object instance instead of proxy
+merge branch ' master ' into bp - update - queries - field
+modify getshardingmetadata ( )
+fix shadowmediaplayer . setdatasource ( mediadatasource )
+modify java doc
+removed obsolete example .
+fix build
+delete all project
+add conditionextractresult
+merge pull request # 1310 from lugaru1234 / issue1309
+rename shardingspherealgorithmfixturenamespacehandler
+remove unecessary performincrementalmount call from animation example
+avoid parent pointer in bottom - up graph traversal
+merge branch ' 0 . 5 . 3 '
+improve javadoc .
+add a time conversion class
+improve user - visible message
+prevent transformation catalog demo from get cut off .
+merge pull request # 2413 from thc202 / not - valid - show - in - history - tab
+delete mainactivity . java from library project
+introduce miss getattributes ( ) in executionrequest
+make base service extend lifecycleservice
+add comment
+add single quote for recipientrepository
+remove code to show intro in page
+merge pull request # 141 from gtudan / act - 1801
+improve and enable rule
+remove non - web nacos application registration
+move inversedocreferenceconvertertest into test src folder
+add metric for widgetresultcache cache entry
+add testcase
+add test
+remove lint warning .
+update eggdropping . java
+add ` computeifabsentconcurrently ` test for ` concurrentlinkedhashmap `
+add an argument list expression
+add apl2 header and fix a typo .
+merge pull request # 67 from mow3l / master
+use the new sort api
+fix default main class of reactor - netty plugin
+add test for explain
+delete yamlrootencryptruleconfiguration . java
+remove unneeded import from mongodbconfiguration
+fix test method name , introduce in 53aa0e480401a10d5d67b8d35bcf900497c4a09c .
+merge pull request # 305 from babbaj / master
+fix another non - fatal gwt compile error i introduce :
+merge pull request # 33 from theycallmemac / patch - 5
+remove unused import
+add assertpersistdatasourcesnode ( )
+implement astextracthandler1
+set auto load path
+make peeble example compile
+merge pull request # 4419 from k9mail / fix _ reply _ to _ encrypted _ message
+fix apachedsembeddedldiftests checkstyle
+fetch project asynchronously
+fix typo , rename merginginconsitencyresolver to merginginconsistencyresolver .
+add 0 . 1 . 50 release note to readme
+rename configuration key
+use a more reasonable value for keep - alive - time
+add stopindex
+remove @ author from javadocs
+add mediachunkiterator for hl medium playlist .
+add test
+add h02 test case
+add minsdk to shadowicon .
+revert todo
+fix visual armor conveyor glitch ( # 891 )
+fix documentation
+provide a credential provider for s3client of localstack instance
+modify java doc
+allow both strict and lax checking mode
+add a custom tostring implementation
+utilize noopjournalcontext instead of null
+add test for this bug
+add java doc for getcolumnvalue ( )
+restore the simpleservice sample to work order .
+add test for find literal
+switch memoization to softref
+fix issue 2926 nosuchelementexception in phantomnodelogic after add node
+add medium scanner tool .
+migrate spring - state - machine to com . baeldung
+fix problem in javadoc reference .
+remove testcase
+add exception to confusion _ rule
+fix typo in documentation of providesintomap .
+fix fhirlroit test ( again ) ( # 12908 )
+add project skeleton
+delete unused code
+merge branch ' master ' of github . com : eclipse / vert . x
+remove unused method runfilter
+merge pull request # 10218 from paveldin / patch - 1
+update comment
+add vf to the list of supported language
+track this todo via # 359 for 3 . 0 . 0 final .
+merge branch ' master ' of http : // github . com / micronaut - projects / micronaut - core
+remove integration test installing and run gradle 4 . 10 . 2
+update contributors . md & changelog . md for 0 . 4 . 9
+remove first blank line .
+encode stuff
+update demo with interestedkeyprefixes
+log exception in login pane
+add test case for localfileoffsetstore close apache / incubator - rocketmq # 59
+implement override binddata method to fix compile
+fixed concurrent consumer test
+add flag for millisecond support to const . java
+add miss utils . java
+fix quality flaw
+remove unnecessary error message
+fix tab
+merge pull request # 1907 from gitfrederic / fix _ group _ id _ too _ big
+merge pull request # 8349 from geoand / # 8345
+improve readme . md link and palindromelist comment
+update also the constructor with reader
+merge branch ' gles2 ' of git : // github . com / nicolasgramlich / andengine into gles2
+tidy up archivingmediadriver .
+add shardingxaconnectiontest .
+add test
+add the new test into the suite
+fix test issue
+remove useless code
+delete file
+edit 129
+fix branchpersisterimpltest . java
+fix space issue for s3 example
+edit 438
+fix name
+add a no - op implementation of ` itableviewlistener `
+merge pull request # 2779 from bytehamster / fix - options - menu
+include < rb > tag in in furigana
+comment out test that do n ' t pass
+add prop
+merge remote - tracking branch ' upstream / master '
+remove test for openpgp - api - library code
+merge pull request # 1642 from babsingh / fix _ jvmsignal
+add ( dummy ) place picker
+merge pull request # 440 from nsit / core - 14
+theme the spinner
+fix custom feedablebodygenerator support , close # 1028
+add test case for bug 49132 .
+add final to r blur
+delete useless code
+create posthandler . fieldhandler
+fix classpath not find on tomcatmetricsconfiguration
+change anonymous subclass to lambda
+handle invalid duration in the duration dsl ( # 3505 )
+skip collection for injection
+merge pull request # 1752 from 4nonym0us / patch - 2
+fix miss rule in ruleset . xml , reenable test
+allow basetask to publish integer progress
+fix up test for the new profile service
+add activitiruntimebundle annotation ( # 1376 )
+modify new sharding datasource
+improve documentation
+fix javadoc link
+throw correct exception
+modifies test code
+simplify list generatesingularmethodstatements to single expression
+add back setter for apolloconfignotification
+remove spike code
+remove excess log for segment ' s replication
+introduce substitution for logback ' s throwableproxy
+fix up some remain unstyled layout
+add v680 test message
+fix thread - safety issue in hashfunctions
+make apex end column inclusive
+add parameter to refresh geofences ( fix # 2414 )
+check menu item visibility when calculate menu size .
+add testcase
+add testcase
+remove null check for non - nullable field in function
+fix java to match callback
+fix a compilation error on jdk 6 .
+remove unused import
+allow jsonprocessingexceptionmapper to optionally show detailed error message
+merge remote - tracking branch ' origin / master '
+rename command - > argument
+update user - manual / usage / java - api ( # 6068 )
+add customadapt
+tweak ` nls ` rule
+enhance the java doc of dubbo - rpc module . ( # 5566 )
+merge pull request # 3681 from hangshao0 / sharedcache
+add insert value column size assertion
+create urlencodedutils . java
+add statement to problem 72
+fix a requestmapping issue
+replace springjunit4classrunner with springrunner
+add some test for simple replace rule
+add more coverage and negative test
+fix import order ( checkstyle )
+remove camel - servletlistener sb itest
+add sync _ enabled
+tweak reminder jedi mind trick
+revert baseline textview change
+add setup ( )
+add detail to javadoc .
+add test to mybatis rolemapper
+fixed broken test
+bump version to 1 . 7 . 2 - snapshot
+add no - query assertion to singlerowsource
+fix broken test setup
+opt the broadcast hook .
+fix titan - hadoop - 1 regression
+merge remote branch ' origin / master '
+add enumdeclarationtransformationstest
+introduce ruleanalysiscontext interface for create provider graph
+fix precommit
+serialize deserialize binary tree
+avoid anonymous childdoccollectorexpression class creation
+align centrally contact avatar in chat window .
+raise performance back up
+fix introduction trimming .
+add test code
+add a deserializer for graphson for the relationidentifier .
+delete encryptorruleconfigurationyamlswappertest . java
+loosen visibility of astfilelookupvalue .
+edit 396
+remove customize wificonfiguration constructor in the shadowwificonfiguration
+add a chain test to the reactive messaging extension
+remove useless @ suppresswarnings
+merge branch ' master ' of http : // github . com / rainoko / springfox into rainoko - master
+remove unnecessary code
+add user _ logged _ in property to koala .
+clean up clipboardmanager
+convert 2 more test to junit4
+clarify streamobserver documentation
+improve mainactivity ' s comment
+allow property to be null .
+resolve checkstyle basic error
+repair a test case bug
+add unit test for new property field - defaultvalue
+add binding to stdio . h and locale . h
+remove menu gap in common comparision menu of requestcomparepage .
+merge pull request # 443 from micronaut - projects / doc - returning - null
+add unit test .
+add sql parameter for newinstance ( )
+add rewriteinitialliteral ( )
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+add basic show recommendation test
+add a simple note test to example
+merge pull request # 6265 from amdegregorio / master
+simplify our sparkcontext contrusction
+disable testlocalfscloudbackuprestore on window till we fix it
+improve unit test
+create core app engine module . set dependency
+merge pull request # 13333 from gsmet / fix - doc - workflow
+merge remote - tracking branch ' origin / master '
+add todo
+update javadoc
+merge branch ' pr - 1048 '
+serviceability / jvmti / heapmonitor / mypackage / heapmonitorstatratetest . java fail with error . parse exception
+fixed an npe in the flycamappstate that occur
+fix single implementor speculation for diamond shape
+merge cleanup
+merge branch ' master ' into inter - blockstmt - resolution
+merge pull request # 2216 from codefairy08 / dev _ bug _ fixs _ 2211
+add javadoc
+merge pull request # 3185 from gwenneg / issue - 3182 - profile - resolution - precedence
+fix warning .
+supply the name of variable to preconditions . checknotnull
+add failsafetransaction interface to the repo .
+update gzip encoder to work with jersey 2 . x # 780
+remove unneeded file .
+add a null check for target
+replace statement lambda by expression lambda
+remove debug output msg
+add a basic crash reporter
+fix false - positive outage detection .
+simplify test method name
+bump version to 12 . 8 . 79
+update rejoiner to use new version of graphql - java dep
+fixed several more npes in avoidconcatenatingnonliteralsinstringbuffer
+add not null check for config item
+merge pull request # 12 from prafful1 / master
+fix an eclipse warning
+fix test
+remove unneeded type
+update version .
+add best meeting point
+bump require graylog version to 2 . 0 . 0
+modify orchestrationmasterslavedatasourcetest
+delete the rxutils file .
+add test for jobutils to address issue # 5
+merge pull request # 343 from cgruber / usenewinstance
+add unauthorized request into statistic
+merge pull request # 4652 from gnodet / fix - 4645
+update document
+add no - op for pong message ( to handle unsolicited pong )
+merge pull request # 7570 from dmlloyd / bot - logging
+improve error treatment on journal remote call
+enhance ❗️ visual indication when you ' re not hit prod ( # 334 )
+implement ruleconfiguration
+include result window limit in error response
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+merge pull request # 2850 from valeravi / fix - geolocation
+update badge
+fix bug in trace handler
+merge pull request # 157 from diigu / multiuser _ support
+ignore big model test on api29 , flaky
+added clusterhosttest
+add integration test for pom configuration
+add test case for quoted literal in field ref
+fix unit test
+add partition list example
+remove obsolete sample
+add support to translate annotation class
+merge pull request # 975 from evdwaard / master
+fix test breakage on window .
+correct javadoc . see # 235
+fix initcapabilities for itemstacks ( # 3379 )
+update custom font display
+optimize import
+improve baseapplication
+skip unnecessary window close on quit
+add method for standardize text input to text
+merge remote - tracking branch ' alibaba / master '
+update pipeline
+rework the wrong file alert dialogue
+remove prefix
+merge remote - tracking branch ' origin / devel ' into devel
+make listenablefuturetask non - final but not subclassable externally .
+improve log info
+add naive 404 support
+merge pull request # 13306 from mvtorres / master
+search result revision
+add unit test for cli
+try another port config for saucelabs
+fix another typo
+enhance ereceiverholder
+rework javadoc .
+fix truncate javadoc for secured
+merge pull request # 260 from joeykrim / patch - 2
+log change .
+fix errant copy / paste comment
+modified difftask to relay caught exception to main thread
+patch a stackoverflowerror when a valueanimator be animate
+fix configuration . update kafka topic configuration .
+remove reference to web browser in bazel documentation .
+apply the utility method in the example
+fix link to xj component documentation
+determing native byte order via byteorder . nativeorder ( )
+modify setup ( )
+implement astextracthandler1
+create customfragment3
+fix load resource in simplesuspendableclassifier
+eliminate a lambda .
+delete getdistinctcolumnlabels
+add persistephemeral ( )
+fix the exit barrier in slidingwindowreservoir .
+update smart - socket to 1 . 4 . 0 - rc . 10 ( # 4621 )
+add a boolean flag for disable entity onupdate ( # 3731 )
+set color to `` getlinepaint ( ) '' for simple line
+fix javadoc error
+remove hierarchicalnamemapper bean from graphitmeetricsexportautoconfiguration
+remove @ ignore
+deprecate wiremockstaticrule
+delete private final int maxconnectionssizeperquery ;
+correct the all - interfaces fix
+update benchmark score
+modify registry - center - ref
+add checkstyle rule , fix visibilitymodifier
+merge pull request # 13698 from sanne / db2version
+enchance testcase
+add shardingconfigurationeventbusinstance . java
+add a test for plain http 1 . 1 connection
+hide constructor
+compute absolute docid in lucene collector ( # 6194 )
+merge pull request # 12488 from stuartwdouglas / wfly - 12365
+modify the module
+merge pull request # 394 from pccornel / master
+fix check for same class in artifactcacheconnectevent .
+add reference to funnel from funnel javadocs .
+improve variable name
+improve logging
+fix typo in abstractcustomcommandline javadoc
+add some doc
+fix unchecked warn in bootstrap . main
+deprecate a method that ' s not use anymore ; small cleanup
+fix stubpendingservice : use realintent to start service
+fix test in cachingstoreclientfactorytest
+remove test file after completion
+remove nullabletemplate from optionalstringmatcher
+fix play2 - java - ebean and play2 - scala - anorm ' s test
+preserve search type id if set by frontend
+merge pull request # 44 from runningcode / master
+merge pull request # 1552 from mockito / repro - 1551
+improve metricsws unit test
+add conversion for hidden usagestatsmanager . registerappusagelimitobserver
+add factory class that use netlib module if available
+remove redundant final from transform in transformer
+return the result of the list . recycle ( ) call ( # 9264 )
+merge pull request # 8628 from cuijulian / master
+fix javadoc for adaptive . value ( ) ( # 3867 )
+add test for spanishunknownwordmodel
+fix checkstyle error on aeronstat pr .
+merge branch ' master ' of github . com : cabaletta / baritone
+fix flaky test
+merge remote branch ' upstream / master ' into read - only
+add baseticktupleawarerichbolt for storm compatibility ( # 2434 )
+fix incorrect import in android example
+remove the required repository from the documentation
+bug # 746 : sqlanalyzer should make definition and symbol searchable
+reformat layout file in lib directory .
+merge pull request # 371 from bl4ckscor3 / patch - 1
+add doctype
+create movieservice . java
+move titan . properties into a titan subpackage
+added another test to jsonparsertest .
+clean some code
+fix checkstyle and add license
+remove `` lockingbackgroundtask '' ( # 1571 )
+add more test to agentregistrationresourcetest .
+fix animateddrawablebackendimpltest for gradle
+add fix to uniqueconstraint
+add a localstack test for assumerole operation
+convert bst to great tree
+remove base class comment
+fix javadoc of serializedname
+merge pull request # 255 from fraggle / master
+fixed viewer , thx to siva for the reminder
+fix minor test issue
+improve statestore javadocs
+add task to dump thread on travis
+fix build
+merge branch ' master ' of github . com : clamothe / immutables
+remove unused method in protecteddatastoreservice
+include exception in a config - parsing log message
+add a provider for the content packet extension
+trim down test
+build script tweak
+add copyright header .
+add new param bsqblockchain
+add some documentation
+bump infinispan subsystem model version to 11 . 0 . 0 .
+merge pull request # 1969 from jimschubert / csharp _ list _ to _ icollection _ tests
+restore spring boot integration test
+fix @ suiteclasses example in javadoc
+handle setconstant changing in
+merge pull request # 675 from anikiej / master
+catch contentprovider securityexceptions to avoid crash
+apply spring - profile to collector
+fix inconsistency with the constructor parameter ( # 1347 )
+add equal and hashcode
+add new matrix test in rgbluminancesourcetestcase ( # 757 )
+remove accidental logging
+restart engine on integration test ( # 328 )
+move buildcellrelativepath off buckstyletuple 11 / n
+add iterative solution to problem 21
+merge branch ' storm - 1242 ' of http : // github . com / revans2 / incubator - storm into storm - 1242
+merge branch ' executors ' of github . com : nathanmarz / storm into executor
+rewrite orchestrationproxyconfiguration
+add some test .
+merge pull request # 642 from wuyoushan / fix _ jwtauth _ npe
+fix pt502 unit test
+remove unused import
+disable retargeting for regtest
+change login resource to usermanager resource
+remove unused import
+merge pull request # 5443 from apc999 / pom
+merge branch ' addclonemethodmustbepublicrule ' of http : // github . com / monits / pmd into monits - addclonemethodmustbepublicrule
+fix bug
+fix varargs on ` robolectricpackagemanager ` .
+use greaterthan matcher for autoboxing test
+introduce log in launcher
+merge pull request # 2000 from adangel / analysis - result
+merge branch ' bug - 1470 ' into pmd / 5 . 3 . x
+fix compilation issue on kmlpolygontest . java
+add testcase
+adjust shardingexecutecallback ' s api for skywalking plugin
+revert `` enable bootstrap class sharing by default on openj9 ''
+add a bodygenerator back by a byte array
+move authenticationcontexttest to correct sourceset
+add a todo to mask opacity
+treat data a a string
+update a new version . version name : greatvoyage - v4 . 1 . 0 - 1 - g635526cc6 , version code : 13215 ( # 3493 )
+delete eventbus
+add a refinement for clarity in the regionmatches function
+improve removevault dialogue
+add miss database drop to lucene test .
+delete getdatabasename ( )
+fix test .
+add a legacyproviderruleanalysisresult
+add test case for mysqlstringlenencbinaryprotocolvalue
+merge branch ' master ' of github . com : redisson / redisson
+add testcase for issue # 1611
+fix di sample
+add prefix `` r ü ber ''
+upgrade camel - msv to junit5
+add environment manager
+adapt time range creation in test .
+implement a simple plaintext in jersey / servlet
+add testcase for pg ilkie syntax . issue # 1391
+remove unused import from example
+merge branch ' master ' into master
+delete old todo that do n ' t need to be address
+remove the filter interface
+fix maxdatetimecache in case of simpledatetime format ( # 472 )
+remove unused import .
+delete amazoncomprehendserviceintegrationtest . java
+add ipaddress by args ( # 343 )
+add 1608
+add fillplainunit ( )
+merge branch ' feature / newmigrationflow ' into develop
+create createcontainer . java
+create contributing . md
+add some test
+reset drag when focus be lose
+add defaultencryptorconfig
+add new config file
+merge pull request # 2642 from deathbeam / dont - floor - percentages
+remove copy javadoc
+delete org . apache . commons . codec . binary
+edit 387
+merge pull request # 4476 from manovotn / issue4469
+fix improper tinting on screen when use fallbackphoto .
+write prebuilt dotnet library a rule analysis
+add infinispan subsystem model version 13 . 0 . 0
+rename odometer to one word
+update smart - http to 1 . 0 . 13 - snapshot ( # 5278 )
+copy le list during resolve
+simplify code
+avoid eclipse warning
+reintroduced deprecate response constructor
+add java test
+merge pull request # 8339 from stuartwdouglas / vertx - single
+remove unused attribute
+remove usage of class in junit 4
+edit 94
+implement collection - based cross
+merge branch ' master ' of github . com : eclipse / vert . x
+merge pull request # 13546 from stuartwdouglas / 13508
+fix the judgement of configuration condition ( # 2312 )
+merge pull request # 3737 from jonatino / patch - 2
+remove hard - coded version of charsequence and comparable .
+fix quality flaw
+fix except time of perf test
+fix javadoc warning
+add a couple more test .
+fix broken event notification test . ( # 7377 )
+add asyncloadingcache support
+clean basic example .
+remove unused import
+improve test for deprecated version enum constant
+add jar for maven release
+create importmigrationtask . java
+add cnc version and client liveness info to aeronstat .
+fix error msg
+migrate new distribute test to dynamic test setup
+remove unused resourcereferenceresolver .
+add testcase for issue # 1095
+add schema object grant
+remove guava from entityassociationsextractor
+create lambdainvokefunction . java
+throw iae when getaccounttype ( ) receive an unexpected param
+fix 清理 crash 日志 , 界面 界面显示 显示 的 日志 大小 未及 及时 更新
+improve javadoc for @ nested
+add more testcase
+fix url - this file move to another repo
+add user model class
+bump version to 2 . 8 . 1 and update release note
+add new parser
+add hive dependency
+halt thread before get own monitor data
+fix a potential npe with anonymous class .
+remove unused import at sharedialogtest
+fix unit test example with junit
+fix jvm _ socketshutdown for osx
+merge pull request # 590 from mtambara / concurrent
+fix locale when use country code .
+remove move unused dependency
+fix jmx bean name with proxied bean
+print a warning message when timing test be disabled
+add testcase
+remove obsolete fragment list from ` fragment ` doc
+merge pull request # 992 from husseincoder / counter - unit - test
+add test for edge case of xmlreportdata
+optimize import .
+add unit test for mediautils
+merge remote - tracking branch ' origin / master '
+mark genericbsontest a slow
+fix # 997
+add atrack message sample
+specify @ override
+fix miss locale in ` searchtypeerror `
+merge branch ' master ' int jira2889
+fix test / hotspot / jtreg / gtest / gtestwrapper . java on alpine / musl
+fixed legacy color mapping
+fix unchecked warn in bootstrap . main
+add placeholderposition tojson test ( # 6597 )
+improve doc for toolchaininfo .
+implement saga sqltransport for sharding - jdbc
+include exception in a config - parsing log message
+fix test project name ( # 2103 )
+remove import .
+remove the sql desc
+improve cachekeyfactory documentation
+assign the body to newly create request ( # 1075 )
+record output in proguardtextoutput
+fix # 6954 ( rolehierarchy comment be mislead )
+add browser performance dashboard . ( # 5686 )
+take 4
+removed white space
+add miss form
+remove debug output .
+improve extraction of full url from httpservletrequest .
+clean up error message , will far this soon
+rename titanid . java to titanid . java
+prevent false alarm with wrong suggestion for `` asse ''
+remove redundant final in rest setting builder
+fix regression ( npe ) cause by r1845903
+update the sparkle activator , which now can set whether
+replace localhost lookup with static ip to fix test .
+get more detail for table metadata error msg .
+remove c - style array
+add tramigo unit test
+implement ruleanalysislegacytoolprovider for systemtoolprovider
+add updateencryptassisteditemplaceholder . java
+use the simple configuration for the sample
+reformatted the class javadoc .
+merge pull request # 571 from rherget / master
+compile identifier to byte code
+merge remote - tracking branch ' origin / master '
+add example of createmessage
+add hackyapicredentialhelper .
+fix itemselect javadoc
+small fix to example . see detail ,
+annotate action event parameter notnull to avoid yellow code
+added sippingreceiveport
+disable test since external server be down
+improve javadoc
+add episode dialog test
+fix tab space
+bump version to 2 . 10 . 6
+remove wrong comment
+replace list with immutable list in create setting monitor
+move weightedsurfacepattern to research ; not ready for release
+fix bug start boot service without storage permission
+modify shardingschema ( )
+set plugin action support post request
+fix patternkeywordmarkerfilter to have public constructor
+remove donation link
+update all the faunus . xxx . xxx style configuration tokens to hadoop . xxx . xxx .
+set invocation object a delegate of code result generator
+merge pull request # 1629 from vokhuyetoz / android - 28
+add a asyncgetcalltrace test
+clarify exception that can be throw from ut8 conversion
+add arnavi test case
+remove corporate info
+use danmaku . paintwidth instead of staticlayout . getdesiredwidth in drawtext ( )
+add linux ppcle docker file for jdk12
+simplify resourcenotfoundexception .
+patch config server ' s security
+merge pull request # 5119 from dkapil / task / bael - 8506
+create gpuimagefalsecolorfilter . java
+add xcode _ locator to bazel ' s embedded binary .
+add a new rule from miguel griffa - suspiciousconstantfieldname
+merge pull request # 3152 from gwenneg / issue - 3139 - keycloak - configuration
+save actual data source map to zk
+rename test file tailcommandtest to tailcommandintegrationtest
+ignore clear property test
+add some javadoc comment about rotate - on - boot behavior
+add h2datasourcepropertyparser
+merge pull request # 8723 from markathomas / bael - 3817
+merge pull request # 523 from square / jw / endpoints - test
+merge branch ' master ' into refactor - extractdtos
+prepare 1 . 1 . 0 - snapshot
+fix deprecation warn
+remove java 8 dependency
+merge branch ' titan05 ' into tp - 2 . 5 . 0 - snapshot
+unify duration across platform ( # 2340 )
+improve unit test
+make sure monitor service be not null
+add integration test for required array .
+add javadoc for issue # 506 and commit 1c001af
+remove unused dependency
+add a karaf feature test for camel - restlet - jackson
+added ternary search
+remove use of deprecate org . apache . cordova . api . plugin
+fix build of master
+add sql parameter for sqlserverinsertparser
+edit 390
+merge branch ' master ' of jacob : / u / nlp / git / javanlp
+add testcase
+merge pull request # 7342 from eugenp / small - fix
+merge pull request # 5052 from jijijiang / dev
+add testcase for utf - 8 bom
+move tabletokengenerator ( )
+fixed # 57 italic and bold text in textview
+implement ruleconfiguration
+prevent issue when retrieve user task without form property
+fix space for struts2guicepluginmodule
+make machinename variable name parameter optional ( bug 44142 )
+update readme for how to build
+migrate amazon - lambda test to junit 5
+improve fix
+delete yamlencryptruleconfiguration . java
+merge branch ' master ' into new - about - screen
+fix scope of map to make it private .
+fix test
+remove jpa specific sqlsubquery
+add unit test base on user issue on gitter
+remove transitionmode .
+rename trainer and predictor
+add a junit test for bean validation
+merge pull request # 7438 from happybyr / master
+add getfactories ( ) to chainedupdateprocessorfactory
+fix the test .
+fix snooze button on notification
+fix test pollution in shadowvalueanimator .
+add jmx export testcase
+merge pull request # 340 from stuartwdouglas / master
+remove duplicate antipatterns .
+fix bug in external auth
+add mockmakertest
+make constructor in file runner private
+flip an image , easy
+change the allocatorfactory . java use `` static ''
+create testconfig . java
+drop stalledtime
+merge pull request # 450 from deathbeam / fix - attack - indicator - color
+remove jdk 1 . 5 incompatible override
+merge branch ' pr - 2184 '
+remove useless import
+add comment to empty catch block for codacy
+rename metaspaceaux to something more meaningful
+store the last counter value when generate global id
+fix javadoc ( for core - only distribution )
+merge branch ' titan05 ' into tp - 2 . 5 . 0 - snapshot
+replace the json - simple library with the gson library ( # 1273 )
+remove debuggin
+add testcase
+edit 104
+move g1concurrentmark flag sanity check to g1arguments
+revert pr # 48
+add call for setdereflinkflag
+fix racey test
+add name for videodata
+fix the test
+add new tostring ( )
+add org . lwjgl . libname override
+improve and clarify exception handle
+correct the documentation of ipretriever . java
+simplify certificateauthority
+add webstat support
+modify java doc
+fix 1 errorpronestyle finding :
+fix diagnostics output for clang - cl
+fix min _ lucene _ version column of sys . shards to return
+fix collision detection of danmaku
+use exist class ioutils for tobytearray ( # 3437 )
+add iterative implementation to solve this problem .
+modify allinternaltests . java
+fix jetty maven plugin name
+fix incorrect expect value assign
+add testcase for issue # 1558
+enable configuration option for caching of mustache view
+fix javadoc
+add suppression fix test
+merge pull request # 1102 from noahandrews / master
+add api to get current position
+remove ` info ` overload with three argument
+disable title bar temporarily
+delete @ requiredargsconstructor
+allow server to use custom keystore
+refactoring model
+fix the build
+improve customadapt ' s comment
+add a jmh benchmark for ` thriftmessageclassfinder ` ( # 2123 )
+resolve conflict
+merge pull request # 1099 from antennapod / version _ 1 . 3
+use map . get instead of search for entry
+add license , and future comment .
+remove unused class .
+remove unneeded import and verb from api operation definition .
+fix an i18n todo
+delete buildconfig . java
+add some comment
+fix test case
+add lose hook .
+remove hand - coded version of serializable , charsequence , and comparable .
+fix di sample
+add statement to problem 30
+implement mvplaintempresult . contains ( )
+add 624
+update httpclient version to 4 . 3 . 3 # 59
+add some javadoc
+remove useless method
+merge pull request # 9574 from alimate / bael - 4274
+merge commit ' 88a1c71dde855c693b230f67b92c4cd067d43b2b '
+delete optimizedstatement
+merge pull request # 3392 from sirishrenukumar / srenukumar / static _ class
+add unread count to synthesize cursor
+modify encryptcolumntoken
+delete topvaluesource - will be illegal in the future
+remove redundant cast .
+shorten code
+update demo
+merge pull request # 5239 from sharon - wang / issue4945
+suppress versionnotfoundexception
+move static global tracer initialization to a method
+remove another unneeded test setup
+upgrade maven plugins / downgrade ktor until in central
+fix wrong delete test
+add a builder pattern friendly method in objectproperty .
+merge branch ' issue - 778 ' of http : // github . com / kevinconaway / springfox into kevinconaway - issue - 778
+add comment for auto app link
+get loopback interface more accurately
+re - introduce the overall _ success field in bep .
+update max histogram q
+prepare version 2 . 1 . 12
+edit 366
+merge pull request # 424 from ryanbard / addtestcaseforhasnojsonpath
+remove unused httppatch
+remove a debug line
+relax test condition in externalprocessrunnertest
+fix command unit test
+add shardingdatabasesandtablesconfigurationrange
+remove unused constant .
+display error message for networkerrorcode ( # 1678 )
+implement a flatclassloaderservice
+remove c++ comment
+add testcase .
+remove stormclienterrorhandler , since it be no longer use
+fix security version test
+add test case # 1662
+merge pull request # 14 from covertjaguar / patch - 2
+use correct zotero help link
+change googleapi to use get
+fix checkstyle / ide / gump nag
+make htablepool size configurable ( binlijin )
+catch possible npe
+add getinitsqls
+add log
+add unit test for resource bundle propagation
+add proper command line option to store builder .
+merge pull request # 8727 from longyuzhang / exit1
+see # 202
+use new icon for lombok plugin
+add unreachablecode rule for ecmascript .
+migrate spring - jinq to com . baeldung
+fix # 135
+add file serve example
+remove unused bytebufdeframer .
+merge branch ' 3 . 4 . 0 - snapshot ' of github . com : vert - x3 / vertx - examples into 3 . 4 . 0 - snapshot
+update changelog , fix test for 1 . 9 . 0 release
+create psimethodextractorutilstest and testdata
+bump version to 1 . 4 . 1
+add apache license and set eol to native .
+move sourcetest to same package a tested class
+add license
+delete jdbcsourcetasktest . java
+merge branch ' dev ' into dev
+upgrade rxjava 1 . 2 . 9
+add javax . json . jsonvalue to type ignore for reflection
+open source attachdetachlistener
+remove abigious import
+modify the statebuilder
+reduce log level for container reaper success message
+add iterative solution to problem 53
+restore remove file
+add override
+release 2 . 1 . 10
+improve internal sidecar role description ( # 5577 )
+update document
+add testcase for issue # 694
+add extensionscreator api
+update schema
+remove unused import
+do nothing with application from lc process .
+hide the constructor a this be a singleton
+add description to custom measure widget
+fix # 88 - smart detection of the example directory
+merge remote - tracking branch ' origin / master '
+edit 442
+merge pull request # 2610 from square / jwilson . 0110 . deprecate _ simple _ xml
+update commonutils . java ( # 3137 )
+improve new cast binding
+fix error message while visit expression path - > call
+add common hidelogs option ( # 2865 )
+add a kcvslog - related debug log message
+delete secretmanagerintegrationtest . java
+add command
+added actual test method for jax - rpc
+merge pull request # 2352 from tuohai666 / dev
+fix variable name for clock . cputime .
+merge pull request # 1411 from zanebenefits / recursive - app - rule
+downgrade log message to debug
+verify syntax error
+build the basis for match _ recog
+delete redundant function
+removed obsolete function
+add some basic print / debugging support to fragment collection .
+bump version to 2 . 11 . 3
+add start - index and stop - index assertion for orderbyitem . ( # 4874 )
+fix sample
+add unittest for fullgcinterval ( # 14 )
+add tool to update dex checksum
+merge pull request # 1622 from mfietz / issue / 821 - subscription - pubdates
+remove unused import
+merge pull request # 94 from anderweb / master
+fix potential npe in jacksonpropertyexceptionmapper
+modify test case
+add test for euler 14
+fix wrong javadoc tag .
+merge branch ' master ' into prefix - decode
+gauge # builder should return builder < t >
+merge pull request # 6655 from pasalab / smallfix - 2017122702
+tidy up asserts .
+add vengeance other graphic id
+fix javadoc ( # 1844 )
+add new method to set four byte
+ignore the persistence . properties
+reorganize the bazel testutils for lib / analysis / util , lib / buildtool / util and
+merge pull request # 1445 from sqrrm / fix - parsertest
+fix formatting
+revert new arraylist creation .
+exclude libpathtest for window compress ref spec
+remove unused wiki and statistic category
+dismiss emoji variation popup when keyboard be dismiss .
+add mockmvc test for insecuremvc
+add assertcreateshardingrulechangedeventforexistedschema ( )
+remove useless test
+introduce basic filter support in logrecordlistener
+revert solrtestcase logger removal
+add integration test for smooks converter and validators
+merge branch ' master ' of github . com : sockeqwe / mosby
+fix crash in chip group demo due to classcastexception .
+add doc
+fix bug : 当前 用户 如果 没有 任何 权限 限时 ， 在 输入 用户 用户名 户名 后 ， 刷新 验证 验证码 会 抛 illegalargumentexception ( # 333 )
+remove preconditions . checkstate ( ) ;
+add getnormaldatasourcemap
+add doc
+remove some stuff for jps test
+merge pull request # 384 from lepdou / 0818
+merge pull request # 12465 from quarkusio / dependabot / maven / awssdk . version - 2 . 15 . 1
+add comment and todo to groupbykeytranslatorbatch
+remove guava
+add assignableshellmetric . java to rpc
+add cacheddatabasemetadatatest
+add getencryptconditions ( )
+fix test on window
+add a todo .
+add log
+merge branch ' master ' of github . com : redisson / redisson
+interleave string , hard
+remove legacy comment
+add blackboxtests . skiptailchildcontainers system parameter
+add customlinearlayoutmanager
+merge branch ' patch - 2 ' of http : // github . com / cheshenglin / activiti
+set devflag to false
+remove unsubscribe btn
+merge pull request # 8580 from dbeaver / refactdb2 # 8562
+use a simple rowmapper instead of a beanpropertyrowmapper
+bump version
+remove accidental copyright text
+merge branch ' master ' of github . com : rstudio / rstudio
+add javadoc at automapconstructor
+merge pull request # 3471 from eugenp / bael - 1177
+add cwiki doc generator
+fix bug
+improve documentation of the @ transactionconfiguration feature
+fix miss file reader init .
+add advisory @ threadsafe annotation to store . java at ismael ' s suggestion .
+handle `` null '' value correctly
+merge pull request # 2346 from mcginty / thumbnail - early - recycle
+restore genclass ' s - - temp _ dir flag once more
+remove unused import
+add abort example to demo for discussion ref # 755
+merge remote - tracking branch ' origin / master '
+provide pre / post handler method to channelinboundmessagehandler . inboundbufferupdated ( )
+modify comment
+add the destroy lifecycle callback for namingservice
+remove explicit stackoverflow check a it a virtualmachineerror . ( # 4391 )
+delete myappglidemodule . java
+simplify reminder interval lookup
+set jpms module name in all publish jar artifact
+add licence header
+add groupid to pushnotificationreceivedjob
+add endian utility test for objectfilescrubbers
+fix gps103 command test
+disable topic search interface icon
+fix javadocs in japanesenumberfilterfactory
+merge branch ' master ' of origin
+hide percentage value in busy animation
+add default value to healthbardefinition
+click new and wait for new job create
+comment out printing of configuration
+merge branch ' pr - 1523 '
+edit 100
+fix crash in collectlocalcpuusage .
+add description for implement queue using stack
+add a couple of extra method
+add test
+add 354
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+add some debug for github / travis / s390x test failure
+remove data source
+use formatter
+add a test for persondao
+fix konstantin ' s comment .
+fix quality flaw
+remove e deps
+add a test for recordtype . isinstance
+make failfastexception public ( # 2446 )
+merge pull request # 2032 from cherrylzhao / dev
+remove servlet specific auth from jax - rs
+restore discoveryenabledserver constructor to make it backward compatible .
+avoid gc skew the compute benchmark
+add a regression test for the matcher bug .
+fix checkstyle error
+modify shardinginsertcolumnsfiller
+upgrade pgjdbc - ng to version 0 . 8 . 2
+add note to func
+convert mockwebserver / queuedispatcher and dispatcher to kotlin ( # 4998 )
+merge pull request # 476 from stevenbower / fix - 474
+delete it
+add unit test for gps103
+handle all nullable annotation type . fix # 1080
+throw appropriate converterexception
+change the chunker test
+merge pull request # 282 from sun7059 / patch - 1
+add select extractor
+rename tutorial launcher class
+add more configurationproperties sample
+fix test after rebase
+make springbootvfs work in test
+fix improper indice check on block to break
+improve callrealmethod ( ) documentation ( # 1005 )
+add testcase for # 3283
+organize template by language and simplify sourcetype
+add license information to sequence . java
+log the default charset once during charsets class initialization .
+allow last attempt username to be display in view .
+switch default textlayoutmode to realistic .
+add binarysink for write basic data type .
+add method for supply parameter to an operation .
+throw an exception when discriminator be not find
+added argument capture code into the api
+deactivate digitalocean2 . bitsquare . io
+merge branch ' master ' of github . com : yusuke / twitter4j
+merge pull request # 104 from qq254963746 / develop
+add ineterrview . java
+add recursive implementation to problem 19
+fix ambiguous log message in recordcollector
+add mojo failure exception
+fix npe in test
+add openjdk11 compatibility
+remove interaction between local _ jobs and local _ jobs _ ratio
+delete erroneous piece of desugar ' s renaming logic
+stub out additional jmx method to avoid test - time error
+remove unused import
+remove unused import
+bump release version to 1 . 2 . 2
+add unit test for orchestrationencryptdatasource spring namespace configure method
+make exopackage test change resource
+added all the httpmethods to httpserver
+add avoidmultipleunaryoperators rule .
+log ioexceptions at debug level
+clean up workloadplugin
+merge pull request # 3 from codehunter34 / master
+remove redundant qualifier .
+use new style toolbar for checkout
+add testcase for cte .
+merge branch ' master ' of http : // github . com / awsdocs / aws - doc - sdk - examples
+merge pull request # 1816 from stephanenicolas / issue - 1779
+check update action fix
+drop seq array false share padding ( mpmcarrayqueue )
+add transactionimportvisitor provide by @ sameerajayasoma
+fix javadoc of org . sonar . api . batch . sensor . highlighting . typeoftext
+fix the grel round function .
+rename a unit test in projectfiltertest
+add documentation .
+fix teltonika test case
+add androiddex2oatinfo to skylark .
+simplify char function and support octal
+merge branch ' filters '
+remove dependency on svm class .
+merge pull request # 2353 from johnegan91 / master
+merge pull request # 6252 from pasalab / branch - import
+remove pointless configuration set
+allow inheritance without additional property
+add gettimer ( ) method
+remove unused initialization code from user list activity .
+do not auto - assign steel a a color for contacts / groups .
+extract invocationonmock interface
+replace questionable logic in pathtypecoercer
+improve reentrancy of insertprojectsauthorizationupdatedatmigration
+add enumordinaltest
+update boot version ( # 1720 )
+add current user pattern
+add empty constructor
+move closeableliquibasetest to ' dropwizard - migrations '
+correct indentation from previous pr merge
+merge branch ' master ' of github . com : holdenk / learning - spark - examples
+use orchestrationmasterslavedatasource
+remove the skip button from the tutorial .
+add restart strategy demo
+remove unused code
+add language
+add interceptor .
+rename propertytype _ reference to propertytype _ reference
+tidy up clustertool .
+merge pull request # 430 from joschi / issue - 423 - slowrequestfilter
+remove obsolete statement .
+fix wrong lrucache max size .
+merge pull request # 2835 from vvlladd28 / improvement / minor - fix
+add max agg function to stub helper
+delete zibasebindingprovider . java
+fix memorystack test
+remove unused import
+add license in cmakelists . txt
+add micro - benchmark for compare hash implementation
+merge pull request # 6297 from zhang - hm / patch - 2
+merge remote - tracking branch ' github - team / getters - setters - flag '
+add test case for alter
+prevent user from set token in configuration
+add license
+merge pull request # 255 from square / jw / plank
+merge branch ' master ' of github . com : apache / dubbo
+merge pull request # 716 from markosullivan94 / patch - 1
+move test to core
+fix websocket url for okexstreamingexchange
+add reference to reliable topic listener ( # 16861 )
+fix false positive on unsynchronizedstaticformatterrule
+modify the share key for database version .
+prolong sleep time .
+fix code style issue
+update simplejndiunittest
+remove unnecessary public modifier .
+merge branch ' storm - 1520 ' of http : // github . com / heartsavior / storm into storm - 1520
+merge branch ' master ' of http : // github . com / metersphere / server
+remove slotidletimeout from jobmasterconfiguration
+add assertisaggregationdistinctcolumnlabel ( )
+remove me . drakeet . library : crashwoodpecker
+handle miss class in confusion matrix
+merge branch ' add - coinjar - stream ' of github . com : nielsdraaisma / xchange into add - coinjar - stream
+optimize jit transition on ppc
+remove dependency on templating module
+merge branch ' new - extension ' of http : // github . com / arduino / arm into new - extension
+add miss test for 8220416
+merge pull request # 8876 from ajay74984 / master
+remove @ nullable around supportedcapabilities in preliminarygetdatarequest
+fix suspect memory leak
+add method to retrieve single stream .
+remove an unused import .
+merge branch ' master ' into empty - keys
+add the option to mute notification for one year .
+remove unused class
+add another iterative solution to problem 50
+add regression test for issue # 7091
+avoid nullpointerexception , when no root ca be set
+fix import .
+add junit5 / jupiter usage instruction to docs ( # 954 )
+fix flaky test
+move xpathcli to appropriate cli subpackage
+improve issue # 406 patch .
+delete tht xml event
+fix testcase . remove unused import .
+update recyclerview bindingadapter
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+modify the sender
+modify test
+simplify defaultdatasourcechain to use addtransferlistener
+use orchestrationmasterslavedatasource
+added new question
+add eeagasprovider
+merge branch ' master ' of http : // github . com / metersphere / metersphere
+update doc for dropdown and well
+merge pull request # 90 from richyhbm / thumbnail - dark - theme
+include the original exception that cause classloading to fail
+merge remote - tracking branch ' origin / master '
+disable jdk / java / lang / reflect / execalleraccesstest
+send email in java example
+merge branch ' 1 . 7 . 7 ' of http : // github . com / orientechnologies / orientdb into 1 . 7 . 7
+add protobuf json serializer
+modify the cat top local service
+merge pull request # 1219 from wenshao / master
+add cropviewactivity wip
+merge pull request # 6350 from yilirin / branch4fix
+delete sviasprotocolencoder . java
+rename enginetestkitdemo to enginetestkitstatisticsdemo
+fix checkstyle
+merge branch ' pr - 623 '
+merge pull request # 534 from mmmmmagina / master
+fix style check error for unsafedetectutil . java
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+fix revise test . now work .
+use back java 9 type reference
+include cxx linker and parse time dep for go .
+revert `` solr - 9981 : fix precommit error in test file ''
+improve customadaptactivity
+make sure timeoutsholder be not null
+fix generic warning in filecollectsource
+delete book . java
+move it
+merge pull request # 69 from awsdocs / master
+add a test case for hhh - 7251
+fix test
+create psibinddynamicvaluesmethodextractor
+modify masterslaveonly . java
+add any _ message . tostring ( )
+remove unused discard ( ) method
+fix test , usecompoundfile do n ' t exists anymore
+use correct password in test
+remove unused import
+introduce artifact a a type
+define threading requirement of streamobserver
+add rateoptions class for store query parameter
+add example for verify # 144
+add more log to bulkloadjob
+add test of navigation info
+merge branch ' dev ' of http : // github . com / fit2cloudrd / metersphere - server into dev
+fix blocker violation
+fix gps103 command format
+prevent npe in oneinputstreamtask
+add testcase
+add aggregationdistinctselectitem
+add setup ( )
+merge pull request # 6555 from gastaldi / narayana
+use new madvoc scope .
+fix log
+merge pull request # 1428 from swagger - api / feature / selective - generation
+merge remote - tracking branch ' origin / master '
+fixed casteljaucomputator to use all control point for computation
+merge branch ' master ' of http : // github . com / cundong / replugin
+replace jsonserializer / deserializer with typeadapter .
+merge pull request # 3542 from thc202 / filechooser - last - dir
+compile error in savetaskpayloadbuilder
+hide protocol detail from user
+modify the config page
+fix issue with open session
+add getruleconfigurationmap ( )
+merge branch ' master ' of http : // github . com / mogronalol / tutorials into mogronalol - master
+add module for kotlin validation test ( # 720 )
+add basic test
+merge pull request # 13310 from adamecp / entswm - 771
+fix javadoc on jsonsyntaxexception
+use correct syntax for sybase
+add default clause to some switch .
+add aplicom unit test
+remove apache license header , it ' s wrong , license be mit
+set new pagesize ( # 4351 )
+improve exception handle in loader
+remove unused import
+restore log message from previously remove inputstatelistener
+merge merge pr 786 : holoeverywhere us abs
+delete unused singletonimmutablebimap ( entry ) constructor .
+add testcase for issue # 2358
+implement kotlin processor and add test .
+remove unused code
+merge branch ' fanchuo / render _ simple _ chart ' into develop ( merges # 130 )
+avoid possible npe from early callback
+merge branch ' master ' of origin
+merge branch ' master ' of http : // github . com / gzu - liyujiang / androidpicker
+add a slot # issameinventory ( ) method ( # 2884 )
+align type of constructor parameter chainid with rawtransactionmanager ( # 1197 )
+fix testbufferedupdates
+fix multiplication operation in new sql executor
+delete movierepository . java
+merge pull request # 1098 from thokrae / valuedocufix
+add junit test
+remove whitespace
+forget the example
+prevent simple dialog flicker .
+merge branch ' master ' into processor - 1 . 8
+remove unused import from outboundenvelopeencodertest
+remove already cover case
+fix broken test
+add char for jab ł o ń ski - diagramm / s
+migrate custom - pmd module to the com . baeldung package
+remove unused file
+add getkey ( )
+rename buildoptionstest method name to be more succinct .
+add nocommit
+rename tests / src / test / java / alluxio / shell / command / setttlcommandtest . java to tests / src / test / java / alluxio / shell / command / setttlcommandintegrationtest . java
+bump version to 1 . 8 . 0 - snapshot
+add testcase for issue 630 . http : // github . com / alibaba / fastjson / issues / 630
+revert `` 测试 git version ''
+miss import
+improve sqlite repeat ( ) emulation
+add masterslaveschema
+fix precommit
+verify time format
+modify representjavabeanproperty ( )
+add sourceunit
+count more form ; improve output
+suppress unchecked warn
+remove camel - mongodb remain stuff
+merge branch ' recovery _ app ' into ' master '
+add more documentation relate to objectmapper
+fix bug
+add travis - ci
+add test for 208
+remove test class .
+remove ascii control char when create xml
+rename web server jndi context test
+implement astextracthandler1
+merge pull request # 576 from emmanuelmess / autodisabledglitch - fix
+fix a few bad thing
+rename test file to make eclipse happy
+fix issue # 22
+overwrite setting atomically
+add substitution for problematic jmx method
+improve activitylifecyclecallbacksimpl
+merge pull request # 1461 from jorander / 126 _ euler _ number _ 32
+test github webhook
+add an instrumentedappender for logback with basic test .
+add updateencryptliteralcolumntoken
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+merge pull request # 735 from kazuki43zoo / doc - statement - builders
+remove 0 . 1 . 0 wiki from doc .
+reintroduce tostring ( ) in condition . result
+add a todo
+add test for find all ref with lambda function
+improve screenutils
+improve javadoc
+add new diff category for deprecated difference
+add assertgetavailableshardingruleconfiguration ( )
+enrich the jodatimesupporttest with expression type checking
+add javadoc
+merge branch ' groovy - 1 . 8 ' into groovy - 1 . 9
+merge pull request # 3750 from knowm / dependabot / maven / com . pubnub - pubnub - gson - 4 . 33 . 2
+modify swap ( )
+merge pull request # 3983 from stuartwdouglas / optional - vertx
+implement the object method for the annotation invocation handler .
+allow an annotation to skip dispatch to atmospherehandler
+remove testcase
+add testcase for issue 236 . http : // github . com / alibaba / fastjson / issues / 236
+fix javadoc for testtemplateinvocationcontextprovider
+merge branch ' master ' into fix / boot - widgets
+add @ setter
+fix db order in test ( fail on postgres )
+wrap coremods a tweakers . part 1 .
+remove unused code
+bump marker position to 16384
+add completion for @ onmeasure
+improve settings up button behavior
+merge pull request # 1728 from ericbn / master
+update voovan to version 4 . 3 . 8 ( # 6027 )
+add a localstack test for simple upload operation
+add eelink unit test
+fix broken test ( # 559 )
+add emailhelper . getlocalpartfromemailaddress ( )
+merge branch ' master ' of http : // github . com / micronaut - projects / micronaut - core
+specify panel width , clarify interpretation of result
+add copyright
+merge branch ' master ' of http : // gitee . com / zlt2000 / microservices - platform
+add test case for methoddesc ( # 559 )
+remove else statement
+add additional constructor
+quit group , then send notification
+add testcase for okhttp , for issue 490 . http : // github . com / alibaba / fastjson / issues / 490
+add permutationstest
+add more dependency + natlog annotation to simple
+merge pull request # 678 from pdbain - ibm / attach _ self
+remove override notation for getsslsocketfactory because of signature conflict
+change the title string
+remove unused import
+sort merge meta test
+ignore test case for spring boot
+add the init method .
+remove debug log
+organize import
+delete unused import
+remove useless array copy in listinterceptor
+remove string concatenation in bufferingflux . create ( ) ( # 1476 )
+merge pull request # 48 from 7footmoustache / patch - 1
+make init ( ) method public
+merge branch ' master ' into patch - 1
+add alpha support to fakeimageview
+upgrade asm to 5 . 0 . 2
+add documentation
+add @ since
+update error info
+add statement to problem 73
+disable test that fail on some host machine
+add assertnewinstance ( )
+update sqltokenextractresult
+delete jsonutils . java
+bumped example version
+merge pull request # 4 from klaube / master
+implement createsslcontext in xmppp anonymouslogin .
+fixed bug 2645268 - classcastexception in uselessoperationonimmutable . getdeclaration
+adjust the min value of dfa cache threshold
+upgrade camel - lzf to junit5
+javadoc . add param attribute and rephrase description a bit .
+merge branch ' master ' of github . com : code4craft / webmagic
+remove project verification
+merge pull request # 133 from danielkwinsor / master
+merge pull request # 19 from jochenberger / dont - use - restricted - api
+allow svc prop to filter through expression
+fix camelcase typo
+edit 119
+add databasehintroutingenginetest and standardroutingenginetest into allroutingtests
+merge pull request # 8358 from sampada07 / master
+add testcase
+avoid null pointer issue when get build info
+add a logging statement in timestampprovider
+fix linestring constraint
+add testcase .
+fix dependency issue
+create detectdocumenttext . java
