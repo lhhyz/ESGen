@@ -134,7 +134,6 @@ def get_structure(ast):
 	elif ast_type == javalang.tree.AnnotationMethod:
 		code_structure += 'AnnotationMethod '
 	else:
-		# 处理特殊情况
 		if ast_type != list and ast_type != javalang.tree.Statement:
 			with open('./d2/other_statement.txt','w',encoding='UTF-8') as f:
 				f.write(str(ast) + '\n')
@@ -344,7 +343,7 @@ for file_num in range(10):
 				break
 			if (len(iteration.split('_')) > 1):
 				continue
-			coreclass_path = project_path+'/'+iteration				# 从 coreclass.txt变成模型预测
+			coreclass_path = project_path+'/'+iteration				
 			
 			if os.path.isfile(coreclass_path+'/'+'new_coreclass.txt'):
 				with open(coreclass_path+'/'+'new_coreclass.txt','r',encoding='UTF-8') as f3:
@@ -420,7 +419,7 @@ for file_num in range(10):
 										class_structure = code_structure
 								except:
 									err = 1 #
-									break # 可以记录出错路径
+									break 
 						if too_long == 1 or err == 1:
 							continue
 						diff_list = [[],[]]
